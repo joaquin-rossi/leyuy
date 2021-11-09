@@ -1,6 +1,6 @@
 # CONSTITUCION DE LA REPUBLICA
 
-CONSTITUCION 1918 PLEBISCITADA EL 25 DE NOVIEMBRE DE 1917
+CONSTITUCION 1934 PLEBISCITADA EL 19 DE ABRIL DE 1934
 
 ## SECCION I
 
@@ -12,642 +12,1328 @@ De la Nación y su soberanía
 
 **Artículo 2**. Ella es y será para siempre libre e independiente de todo poder extranjero.
 
-**Artículo 3**. Jamás será el patrimonio de persona, ni de familia alguna.
+**Artículo 3**. Jamás será el patrimonio de persona ni de familia alguna.
 
 ### CAPITULO II
 
-**Artículo 4**. La soberanía en toda su plenitud existe radicalmente en la Nación, a la que compete el derecho exclusivo de establecer sus leyes, del modo que más adelante se expresará.
+**Artículo 4**. La soberanía en toda su plenitud existe radicalmente en la Nación, a la que compete el derecho exclusivo de establecer sus Leyes, del modo que más adelante se expresará.
 
 ### CAPITULO III
 
-**Artículo 5**. Todos los cultos religiosos son libres en el Uruguay. El Estado no sostiene religión alguna. Reconoce a la Iglesia Católica el dominio de todos los templos que hayan sido, total o parcialmente, construidos con fondos del Erario Nacional, exceptuándose sólo las capillas destinadas al servicio de asilos, hospitales, cárceles u otros establecimientos públicos. Declara, asimismo, exentos de toda clase de impuestos a los templos consagrados actualmente al culto de las diversas religiones.
-
-## SECCION II
-
-De la ciudadanía y sus derechos, modos de suspenderse y perderse
-
-### CAPITULO I
-
-**Artículo 6**. Los ciudadanos de la República Oriental del Uruguay son naturales o legales.
-
-**Artículo 7**. Ciudadanos naturales son todos los hombres nacidos en cualquier punto del territorio de la República. Son también ciudadanos naturales, los hijos de padre o madre orientales, cualquiera que haya sido el lugar de su nacimiento, por el hecho de avecindarse en el país e inscribirse en el Registro Cívico.
-
-**Artículo 8**. Tienen derecho a la ciudadanía legal: los extranjeros casados que, profesando alguna ciencia, arte o industria, o poseyendo algún capital en giro o propiedad en el país, tengan tres años de residencia en la República; los extranjeros no casados que tengan algunas de dichas calidades y cuatro años de residencia en el país; los que obtengan gracia especial de la Asamblea por servicios notables o méritos relevantes.
-
-### CAPITULO II
-
-**Artículo 9**. Todo ciudadanos es miembro de la soberanía de la Nación; como tal es elector y elegible en los casos y formas que se designarán.
-
-El sufragio se ejercerá en la forma que determine la ley, pero sobre las bases siguientes:
-
-1) Inscripción obligatoria en el Registro Cívico.
-
-2) Los funcionarios policiales y los militares en actividad deberán abstenerse, bajo pena de destitución, de formar parte de comisiones o clubs políticos, de suscribir manifiestos de partidos y, en general, de ejecutar cualquier otro acto público de carácter político, salvo el voto.
-
-3) Voto secreto.
-
-4) Representación proporcional integral.
-
-Todas las corporaciones de carácter electivo que se designen para intervenir en las cuestiones del sufragio, deberán ser elegidas con las garantías consignadas en este artículo.
-
-**Artículo 10**. El reconocimiento del derecho de la mujer al voto activo y pasivo, en materia nacional o municipal, o en ambas a la vez, sólo podrá ser hecho por mayoría de dos tercios sobre el total de los miembros de cada una de las Cámaras.
-
-**Artículo 11**. Todo ciudadano puede ser llamado a los empleos públicos.
-
-### CAPITULO III
-
-**Artículo 12**. La ciudadanía se suspende: 1º Por ineptitud física o mental, que impida obrar libre y reflexivamente; 2º Por la condición de simple soldado de línea; 3º Por la condición de legalmente procesado en causa criminal, de que pueda resultar pena corporal; 4º Por no haber cumplido 18 años de edad; 5º Por sentencia que imponga pena de destierro, prisión, penitenciaría o inhabilitación para el ejercicio de derechos políticos durante el tiempo de la condena.
+**Artículo 5**. Todos los cultos religiosos son libres en el Uruguay. El Estado no sostiene religión alguna. Reconoce a la Iglesia Católica el dominio de todos los templos que hayan sido total o parcialmente construidos con fondos del Erario Nacional, exceptuándose sólo las capillas destinadas al servicio de asilos, hospitales, cárceles u otros establecimientos públicos. Declara, asimismo, exentos de toda clase de impuestos a los templos consagrados al culto de las diversas religiones.
 
 ### CAPITULO IV
 
-**Artículo 13**. La ciudadanía se pierde: por naturalizarse en otro país, bastando para recobrarla, domiciliarse en la República e inscribirse en el Registro Cívico.
+**Artículo 6**. En los tratados internacionales que celebre la República, propondrá la cláusula de que todas las diferencias que surjan entre las partes contratantes, serán decididas por el arbitraje u otros medios pacíficos.
+
+## SECCION II
+
+Derechos, deberes y garantías
+
+### CAPITULO I
+
+**Artículo 7**. Los habitantes de la República tienen derecho a ser protegidos en el goce de su vida, honor, libertad, seguridad, trabajo y propiedad. Nadie puede ser privado de estos derechos sino conforme a las Leyes que se establecieren por razones de interés general.
+
+**Artículo 8**. Todas las personas son iguales ante la Ley, no reconociéndose otra distinción entre ellas sino la de los talentos o las virtudes.
+
+**Artículo 9**. Se prohibe la fundación de mayorazgos.
+
+Ninguna autoridad de la República podrá conceder título alguno de nobleza ni honores o distinciones hereditarias.
+
+**Artículo 10**. Las acciones privadas de las personas, que de ningún modo atacan el orden público ni perjudican a un tercero, están exentas de la autoridad de los magistrados.
+
+Ningún habitante de la República será obligado a hacer lo que no manda la Ley, ni privado de lo que ella no prohíbe.
+
+**Artículo 11**. El hogar es un sagrado inviolable. De noche nadie podrá entrar en él sin consentimiento de su jefe, y de día, sólo de orden expresa del Juez competente, por escrito y en los casos determinados por la Ley.
+
+**Artículo 12**. Nadie puede ser penado ni confinado sin forma de proceso y sentencia legal.
+
+**Artículo 13**. La Ley ordinaria podrá establecer el juicio por jurados en las causas criminales.
+
+**Artículo 14**. No podrá imponerse la pena de confiscación de bienes por razones de carácter político.
+
+**Artículo 15**. Nadie puede ser preso sino infraganti delito, o habiendo semiplena prueba de él por orden escrita de Juez competente.
+
+**Artículo 16**. En cualquiera de los casos del artículo anterior, el Juez bajo la más seria responsabilidad, tomará al arrestado su declaración dentro de veinticuatro horas, y dentro de cuarenta y ocho, lo más, empezará el sumario. La declaración del acusado deberá ser tomada en presencia de su defensor. Este tendrá también el derecho de asistir a todas las diligencias sumariales.
+
+**Artículo 17**. En caso de prisión indebida el interesado o cualquier persona podrá interponer ante el Juez competente el recurso de "habeas corpus", a fin de que la autoridad aprehensora explique y justifique de inmediato el motivo legal de la aprehensión, estándose a lo que decida el Juez indicado.
+
+**Artículo 18**. Las Leyes fijarán el orden y las formalidades de los juicios.
+
+**Artículo 19**. Quedan prohibidos los juicios por comisión.
+
+**Artículo 20**. Quedan abolidos los juramentos de los acusados en sus declaraciones o confesiones, sobre hecho propio, y prohibido el que sean tratados en ellas como reos.
+
+**Artículo 21**. Queda igualmente vedado el juicio criminal en rebeldía. La ley proveerá lo conveniente a este respecto.
+
+**Artículo 22**. Todo juicio criminal empezará por acusación de parte o del acusador público, quedando abolidas las pesquisas secretas.
+
+**Artículo 23**. Todos los Jueces son responsables ante la Ley de la más pequeña agresión contra los derechos de las personas, así como por separarse del orden de proceder que en ella se establezca.
+
+**Artículo 24**. Será civilmente responsable cualquier funcionario que, en ejercicio de la función pública que le estuviere confiada, y con incumplimiento de los deberes que el cargo le impone, cause perjuicio a tercero.
+
+Responderán subsidiariamente, el Estado, los Municipios, los Entes Autónomos o Servicios descentralizados, o el órgano público de que dependa el funcionario, quienes serán parte necesaria en los juicios que se promuevan al efecto, y tendrán el derecho de repetir contra aquél lo que hubieren pagado en caso de condenación.
+
+**Artículo 25**. A nadie se le aplicará la pena de muerte.
+
+En ningún caso se permitirá que las cárceles sirvan para mortificar, y sí sólo para asegurar a los procesados y penados, persiguiendo su reeducación, la aptitud para el trabajo y la profilaxis del delito.
+
+**Artículo 26**. En cualquier estado de una causa criminal de que no haya de resultar pena de penitenciaría, los Jueces podrán poner al acusado en libertad, dando fianza según la ley.
+
+**Artículo 27**. Los papeles de los particulares y su correspondencia epistolar, telegráfica o de cualquier otra especie, son inviolables, y nunca podrá hacerse su registro, examen o interceptación sino conforme a las Leyes que se establecieren por razones de interés general.
+
+**Artículo 28**. Es enteramente libre, en toda materia, la comunicación de los pensamientos por palabras, escritos privados o publicados en la prensa, o por cualquier otra forma de divulgación, sin necesidad de previa censura; quedando responsable el autor y, en su caso, el impresor o emisor, con arreglo a la Ley, por los abusos que cometieren.
+
+**Artículo 29**. Todo habitante tiene derecho de petición para ante todas y cualesquiera autoridades de la República.
+
+**Artículo 30**. La seguridad individual no podrá suspenderse sino con anuencia de la Asamblea General o de la Comisión Permanente, estando aquella disuelta o en receso, y en el caso extraordinario de traición o conspiración contra la patria; y entonces, sólo será para la aprehensión de los delincuentes, sin perjuicio de lo dispuesto en el inciso 18 del artículo 158 .
+
+**Artículo 31**. La propiedad es un derecho inviolable, pero sujeto a lo que dispongan las Leyes que se establecieren por razones de interés general.
+
+Nadie podrá ser privado de su derecho de propiedad sino en los casos de necesidad o utilidad públicas establecidos por una Ley y recibiendo siempre del Tesoro Nacional una justa y previa compensación.
+
+Cuando se declare la expropiación por causa de necesidad o utilidad públicas, se indemnizará a los propietarios por los daños y perjuicios que sufrieren en razón de la mora, se consume o no la expropiación.
+
+**Artículo 32**. El trabajo intelectual, el derecho del autor, del inventor o del artista, serán reconocidos y protegidos por la Ley.
+
+**Artículo 33**. Toda la riqueza artística o histórica del país, sea quien fuere su dueño, constituye el tesoro cultural de la Nación; estará bajo la salvaguardia del Estado, y la Ley establecerá lo que estime oportuno para su defensa.
+
+**Artículo 34**. Nadie será obligado a prestar auxilios, sean de la clase que fueren, para los ejércitos, ni a franquear su casa para alojamiento de militares, sino de orden del magistrado civil según la Ley, y recibirá de la República la indemnización del perjuicio que en tales casos se le infiera.
+
+**Artículo 35**. Toda persona puede dedicarse al trabajo, cultivo, industria, comercio, profesión o cualquier otra actividad lícita, salvo las limitaciones de interés general que establezcan las Leyes.
+
+**Artículo 36**. Es libre la entrada de toda persona en el territorio de la República, su permanencia en él y su salida con sus bienes, observando las Leyes y salvo perjuicio de terceros.
+
+La inmigración deberá ser reglamentada por la Ley, pero en ningún caso el inmigrante adolecerá de defectos físicos, mentales o morales que puedan perjudicar a la sociedad.
+
+**Artículo 37**. Queda garantido el derecho de reunión pacífica y sin armas. El ejercicio de este derecho no podrá ser desconocido por ninguna autoridad de la República, sino en virtud de una Ley y solamente en cuanto se oponga a la salud, la seguridad y el orden públicos.
+
+**Artículo 38**. Todas las personas tienen el derecho de asociarse, cualquiera sea el objeto que persigan, siempre que no constituyan una asociación ilícita declarada por la Ley.
+
+### CAPITULO II
+
+**Artículo 39**. El Estado velará por el fomento social de la familia.
+
+**Artículo 40**. El cuidado y educación de los hijos para que éstos alcancen su plena capacidad corporal, intelectual y social, es un deber y un derecho de los padres.
+
+Quienes tengan a su cargo numerosa prole tienen derecho a auxilios compensatorios siempre que los necesiten.
+
+La Ley dispondrá las medidas necesarias para que la infancia y juventud sean protegidas contra el abandono corporal, intelectual o moral de sus padres o tutores, así como contra la explotación y el abuso.
+
+**Artículo 41**. Los padres tienen para con los hijos habidos fuera del matrimonio los mismos deberes que respecto de los nacidos en él.
+
+La maternidad, cualquiera sea la condición o estado de la mujer, tiene derecho a la protección de la sociedad y a su asistencia en caso de desamparo.
+
+**Artículo 42**. La Ley procurará que la delincuencia infantil esté sometida a un régimen especial en que se dará participación a la mujer.
+
+**Artículo 43**. El Estado legislará en todas las cuestiones relacionadas con la salud e higiene públicas, procurando el perfeccionamiento físico, moral y social de todos los habitantes del país.
+
+Todos los habitantes tienen el deber de cuidar su salud, así como el de asistirse en caso de enfermedad. El Estado proporcionará gratuitamente los medios de prevención y de asistencia tan solo a los indigentes o carentes de recursos suficientes.
+
+**Artículo 44**. La Ley propenderá al alojamiento higiénico y económico del obrero, favoreciendo la construcción de viviendas y barrios que reúnan esas condiciones.
+
+**Artículo 45**. El Estado dará asilo a los indigentes o carentes de recursos suficientes que, por su inferioridad física o mental de carácter crónico, estén inhabilitados para el trabajo.
+
+**Artículo 46**. El Estado combatirá por medio de la Ley y de las Convenciones internacionales los vicios sociales.
+
+**Artículo 47**. El derecho sucesorio queda garantido dentro de los límites que establezca la Ley. La línea recta ascendente y la descendente tendrán un tratamiento preferencial en las Leyes impositivas.
+
+**Artículo 48**. El "bien de familia", su constitución, conservación, goce y trasmisión, serán objeto de una legislación protectora especial.
+
+**Artículo 49**. Toda organización comercial o industrial trustificada estará bajo el contralor del Estado.
+
+**Artículo 50**. El Estado o los Municipios, en su caso, condicionarán a su homologación el establecimiento y la vigencia de las tarifas de servicios públicos a cargo de empresas concesionarias.
+
+Las concesiones a que se refiere este artículo no podrán darse a perpetuidad en ningún caso.
+
+**Artículo 51**. Prohíbese la usura. Es de orden público la Ley que señale límite máximo al interés de los préstamos. Esta determinará la pena a aplicarse a los contraventores.
+
+Nadie podrá ser privado de su libertad por deudas.
+
+**Artículo 52**. El trabajo está bajo la protección especial de la Ley.
+
+Todo habitante de la República, sin perjuicio de su libertad, tiene el deber de aplicar sus energías intelectuales o corporales en forma que redunde en beneficio de la colectividad, la que procurará ofrecer, con preferencia a los ciudadanos, la posibilidad de ganar su sustento mediante el desarrollo de una actividad económica.
+
+**Artículo 53**. La Ley ha de reconocer a quien se hallare en una relación de trabajo o servicio, como obrero o empleado, la independencia de su conciencia moral y cívica; la justa remuneración; la limitación de la jornada; el descanso semanal y la higiene física y moral.
+
+El trabajo de las mujeres y de los menores de diez y ocho años será especialmente reglamentado y limitado.
+
+**Artículo 54**. La Ley reglamentará la distribución imparcial y equitativa del trabajo.
+
+**Artículo 55**. Toda empresa cuyas características determinen la permanencia del personal en el respectivo establecimiento, estará obligada a proporcionarle alimentación y alojamiento adecuados, en las condiciones que la Ley establecerá.
+
+**Artículo 56**. La Ley promoverá la organización de sindicatos gremiales, acordándoles franquicias y dictando normas para reconocerles personería jurídica.
+
+Promoverá, asimismo, la creación de tribunales de conciliación y arbitraje.
+
+Declárase que la huelga es un derecho gremial. Sobre esta base se reglamentará su ejercicio y efectividad.
+
+**Artículo 57**. Los funcionarios están al servicio de la Nación y no de una fracción política. En los lugares y horas de trabajo la actividad proselitista será ilícita y, como tal, reprimida por la Ley.
+
+La Ley establecerá el Estatuto del Funcionario sobre la base fundamental de que el funcionario existe para la función y no la función para el funcionario.
+
+El Estatuto determinará especialmente las condiciones de ingreso a la Administración; las reglas del ascenso; las garantías de la permanencia, de la cesación, de la suspensión o del traslado; los deberes de los funcionarios y los recursos contra las resoluciones que los afecten.
+
+Ninguna investigación parlamentaria o administrativa sobre irregularidades, omisiones o delitos, se considerará concluida mientras el inculpado no pueda presentar sus descargos y articular su defensa.
+
+El Estatuto deberá quedar establecido dentro de los dos años de promulgada esta Constitución.
+
+**Artículo 58**. Las jubilaciones generales y seguros sociales se organizarán en forma de garantizar a todos los trabajadores, patronos, empleados y obreros, retiros adecuados y subsidios para los casos de accidentes, enfermedad, invalidez, desocupación forzosa, etc.; y a sus familias, en caso de muerte, la pensión correspondiente.
+
+La pensión a la vejez constituye un derecho para el que llegue al límite de la edad productiva, después de larga permanencia en el país y carezca de recursos para subvenir a sus necesidades vitales.
+
+**Artículo 59**. Queda garantida la libertad de enseñanza.
+
+La Ley reglamentará la intervención del Estado al solo objeto de mantener la higiene, la moralidad, la seguridad y el orden públicos.
+
+Todo padre o tutor tiene derecho a elegir, para la enseñanza, de sus hijos o pupilos, los maestros o instituciones que desee.
+
+**Artículo 60**. Las instituciones de enseñanza privada que suministren clases gratuitas a un número de alumnos y en la forma que determinará la Ley, y las instituciones culturales, serán exoneradas de impuestos nacionales y municipales como subvención por sus servicios.
+
+**Artículo 61**. Es obligatoria la enseñanza primaria.
+
+El Estado dispondrá lo necesario para su cumplimiento.
+
+**Artículo 62**. Declárase de utilidad social la gratuidad de la enseñanza oficial primaria, media, superior, industrial y artística y de la educación física; la creación de becas de perfeccionamiento y especialización cultural, científica y obrera, y el establecimiento de bibliotecas populares.
+
+En todas las instituciones docentes se atenderá especialmente la formación del carácter moral y cívico de los alumnos.
+
+### CAPITULO III
+
+**Artículo 63**. La enumeración de derechos, deberes y garantías, hecha por la Constitución, no excluye los otros que son inherentes a la personalidad humana o se derivan de la forma republicana de gobierno.
 
 ## SECCION III
+
+De la ciudadanía y sus derechos; modos de suspenderse y perderse
+
+### CAPITULO I
+
+**Artículo 64**. Los ciudadanos de la República Oriental del Uruguay son naturales o legales.
+
+**Artículo 65**. Ciudadanos naturales son todos los hombres y mujeres nacidos en cualquier punto del territorio de la República. Son también ciudadanos naturales los hijos de padre o madre orientales, cualquiera haya sido el lugar de su nacimiento, por el hecho de avecindarse en el país e inscribirse en el Registro Cívico.
+
+**Artículo 66**. Tienen derecho a la ciudadanía legal:
+
+A) Los hombres y mujeres extranjeros casados, de buena conducta, que, poseyendo algún capital en giro o propiedad en el país, o profesando alguna ciencia, arte o industria, tengan tres años de residencia habitual en la República;
+
+B) Los hombres y mujeres extranjeros de buena conducta, no casados, o casados cuyas esposas o esposos no residan en la República, que tengan alguna de las cualidades del inciso anterior y cinco años de residencia habitual en el país;
+
+C) Los hombres y mujeres extranjeros que obtengan gracia especial de la Asamblea por servicios notables o méritos relevantes. La prueba de la residencia deberá fundarse indispensablemente en instrumento público o privado de fecha comprobada.
+
+Los derechos inherentes a la ciudadanía legal no podrán ser ejercidos por los extranjeros comprendidos en los incisos A) y B) hasta tres años después del otorgamiento de la respectiva carta.
+
+La existencia de cualquiera de las causales de suspensión a que se refiere el artículo 70 obstará al otorgamiento de la carta de ciudadanía.
+
+La adopción de la ciudadanía legal no importa renuncia a la nacionalidad de origen.
+
+**Artículo 67**. Tienen derecho al sufragio, sin necesidad de obtener previamente ciudadanía legal, los hombres y mujeres extranjeros, casados, de buena conducta, que, poseyendo algún capital en giro o propiedad en el país, o profesando alguna ciencia, arte o industria, tengan residencia habitual de quince años, por lo menos, en la República.
+
+La prueba de la residencia se fundará indispensablemente en instrumento público o privado de fecha comprobada, y si la justificación fuera satisfactoria para la autoridad encargada de juzgarla, el extranjero quedará habilitado para el ejercicio del voto desde que se inscriba en el Registro Cívico, autorizado por la certificación que a los efectos le extenderá aquella misma autoridad.
+
+### CAPITULO II
+
+**Artículo 68**. Todo ciudadano es miembro de la soberanía de la Nación; como tal es elector y elegible en los casos y formas que se designaran.
+
+El sufragio se ejercerá en la forma que determine la Ley, pero sobre las bases siguientes:
+
+1) Inscripción obligatoria en el Registro Cívico.
+
+2) Voto secreto y obligatorio;
+
+3) Representación proporcional integral;
+
+4) Los magistrados judiciales, los miembros del Tribunal de lo Contencioso-Administrativo y del Tribunal de Cuentas, los Directores de los Entes Autónomos y Servicios descentralizados, los militares en actividad, cualquiera sea su grado, y los funcionarios policiales de cualquier categoría, deberán abstenerse, bajo pena de destitución e inhabilitación de dos a diez años para ocupar cualquier otro empleo público, de formar parte de comisiones o clubs políticos, de suscribir manifiestos de partido, y, en general, ejecutar cualquier otro acto público o privado de carácter político, salvo el voto.
+
+Será competente para conocer y aplicar las penas de estos delitos electorales la Justicia Electoral. La denuncia deberá ser hecha ante la Corte Electoral por intermedio de las autoridades nacionales de los partidos.
+
+Sin perjuicio de lo dispuesto anteriormente, en todos los casos se pasarán los antecedentes a la Justicia ordinaria a los demás efectos a que hubiere lugar;
+
+5) El Presidente de la República y los miembros de la Corte Electoral no podrán formar parte de comisiones o clubs políticos, ni actuar en los organismos directivos de los partidos, ni intervenir en ninguna forma en la propaganda política de carácter electoral.
+
+La misma disposición comprende a los Intendentes, los que quedan sometidos a las penalidades establecidas en el inciso 4º y en las mismas condiciones;
+
+6) Todas las corporaciones de carácter electivo que se designen para intervenir en las cuestiones del sufragio, deberán ser elegidas con las garantías consignadas en este artículo;
+
+7) Toda nueva Ley de Registro Cívico o de Elecciones, así como toda modificación o interpretación de las vigentes, requerirá dos tercios de votos del total de componentes de cada Cámara;
+
+8) La Ley podrá extender a otras autoridades, por dos tercios de votos del total de componentes de cada Cámara, la prohibición de los incisos números 4º y 5º.
+
+**Artículo 69**. Todo ciudadano puede ser llamado a los empleos públicos. Los ciudadanos legales no podrán ser designados sino tres años después de habérseles otorgado la carta de ciudadanía.
+
+### CAPITULO III
+
+**Artículo 70**. La ciudadanía se suspende:
+
+1) Por ineptitud física o mental que impida obrar libre y reflexivamente;
+
+2) Por la condición de soldado de línea, sea distinguido, músico, corneta, trompa, tambor, apuntador, o de cualquier otra denominación, de carácter inferior a la de Cabo, con excepción de los alumnos de las academias militares;
+
+3) Por la condición de legalmente procesado en causa criminal de que pueda resultar pena de penitenciaría;
+
+4) Por no haber cumplido 18 años de edad;
+
+5) Por sentencia que imponga pena de destierro, prisión, penitenciaría o inhabilitación para el ejercicio de derechos políticos durante el tiempo de la condena;
+
+6) Por el ejercicio habitual de actividades moralmente deshonrosas, que determinará la Ley, de acuerdo con el inciso 7º del artículo 68 ;
+
+7) Por formar parte de organizaciones sociales o políticas que, por medio de la violencia tiendan a destruir las bases fundamentales de la nacionalidad. Se consideran tales, a los efectos de esta disposición, las contenidas en las Secciones I y II de la presente Constitución;
+
+8) Por la falta superviniente de cualquiera de las exigencias requeridas por el artículo 66 para la concesión de la ciudadanía legal.
+
+Estas dos últimas causales sólo regirán respecto de los ciudadanos legales.
+
+### CAPITULO IV
+
+**Artículo 71**. La nacionalidad no se pierde ni aún por naturalizarse en otro país, bastando simplemente para recuperar el ejercicio de los derechos de ciudadanía, avecindarse en la República e inscribirse en el Registro Cívico.
+
+La ciudadanía legal se pierde por cualquier otra forma de naturalización ulterior.
+
+## SECCION IV
 
 De la forma de Gobierno y sus diferentes Poderes
 
 ### CAPITULO UNICO
 
-**Artículo 14**. La República Oriental de Uruguay adopta para su gobierno la forma democrática representativa.
+**Artículo 72**. La Nación adopta para su Gobierno la forma democrática republicana.
 
-**Artículo 15**. Delega al efecto el ejercicio de su soberanía en los tres Altos Poderes: Legislativo, Ejecutivo y Judicial.
-
-## SECCION IV
-
-Del Poder legislativo y sus Cámaras
-
-### CAPITULO I
-
-**Artículo 16**. El Poder Legislativo es delegado a la Asamblea General.
-
-**Artículo 17**. Esta se compondrá de dos Cámaras: una de Representantes y otra de Senadores.
-
-**Artículo 18**. A la Asamblea General compete:
-
-1) Formar y mandar publicar los Códigos.
-
-2) Establecer los Tribunales y arreglar la Administración de Justicia.
-
-3) Expedir leyes relativas a la independencia, seguridad, tranquilidad y decoro de la República; protección de todos los derechos individuales, y fomento de la ilustración, agricultura, industria, comercio exterior e interior.
-
-4) Aprobar o reprobar, aumentar o disminuir los presupuestos de gastos que presente el Poder Ejecutivo; establecer las contribuciones necesarias para cubrirlos; su distribución; el orden de su recaudación e inversión, y suprimir, modificar o aumentar las existentes.
-
-5) Aprobar o reprobar, en todo o en parte, las cuentas que presente el Poder Ejecutivo.
-
-6) Contraer la deuda nacional, consolidarla, designar sus garantías y reglamentar el crédito público.
-
-7) Decretar la guerra y aprobar o reprobar los Tratados de paz, alianza, comercio y cualesquiera otros que celebre el Poder Ejecutivo con potencias extranjeras.
-
-8) Designar todos los años la fuerza armada necesaria en tiempo de paz y de guerra.
-
-9) Crear nuevos Departamentos, por mayoría de dos tercios de votos sobre el total de los miembros de cada una de las Cámaras; arreglar sus límites; habilitar puertos; establecer aduanas, y derechos de exportación e importación.
-
-10) Justificar el peso, ley valor de las monedas; fijar el tipo y denominación de las mismas, y arreglar el sistema de pesas y medidas.
-
-11) Permitir o prohibir que entren tropas extranjeras en el territorio de la República, determinando para el primer caso el tiempo en que deban salir de él.
-
-Se exceptúan las fuerzas que entran al solo efecto de rendir honores, cuya entrada será autorizada por el Presidente de la República.
-
-12) Negar o conceder las salidas de fuerzas nacionales fuera de la República, señalando para este caso el tiempo de su regreso a ella.
-
-13) Crear o suprimir empleos públicos; determinar sus atribuciones; designar, aumentar o disminuir sus dotaciones o retiros; dar pensiones o recompensas pecuniarias o de otra clase; decretar honores públicos a los grandes servicios.
-
-14) Conceder indulto o acordar amnistías en casos extraordinarios y con el voto, a lo menos, de las dos terceras partes de una y otra Cámara.
-
-15) Hacer los reglamentos de milicias y determinar el tiempo y número en que deben reunirse.
-
-16) Elegir el lugar en que deban residir las primeras autoridades de la Nación.
-
-17) Aprobar o reprobar la creación de reglamentos de cualesquiera Bancos que hubieren de establecerse.
-
-18) Nombrar, reunidas ambas Cámaras, los miembros de la Alta Corte de Justicia.
-
-19) Resolver los conflictos de jurisdicción entre el Consejo Nacional de Administración y el Presidente de la República.
-
-### CAPITULO II
-
-**Artículo 19**. La Cámara de Representantes se compondrá de miembros elegidos directamente por el pueblo en la forma que determine la ley de elecciones.
-
-**Artículo 20**. En todo el territorio de la República se harán las elecciones de Representantes el último domingo del mes de Noviembre.
-
-**Artículo 21**. Las funciones de los Representantes durarán tres años.
-
-**Artículo 22**. Para ser Representantes se necesita: ciudadanía natural en ejercicio o legal con cinco años de ejercicio, y en ambos casos veinticinco años cumplidos de edad.
-
-**Artículo 23**. No pueden ser Representantes:
-
-Los empleados militares o los civiles dependientes de los Poderes Ejecutivo o Judicial por servicio a sueldo, a excepción de los retirados o jubilados.
-
-Los militares que renuncien al cargo y al sueldo para ingresar al Cuerpo Legislativo, conservarán el grado, pero mientras duren sus funciones legislativas no podrán ser ascendidos, estarán exentos de toda subordinación militar y no se contará el tiempo que permanezcan desempeñando funciones legislativas a los efectos de la antigüedad para el ascenso.
-
-**Artículo 24**. No pueden ser electos Representantes, los Jefes de Policía, Jueces y Fiscales Letrados en los Departamentos en que desempeñen sus funciones y los militares en la región en que tengan mando de fuerza o ejerzan en actividad alguna función militar, salvo que renuncien con seis meses de anticipación al acto electoral.
-
-**Artículo 25**. Compete a la Cámara de Representantes:
-
-1) La iniciativa sobre impuestos y contribuciones, tomando en consideración las modificaciones con que el Senado las devuelva.
-
-2) El derecho exclusivo de acusar ante el Senado a los miembros del Poder Ejecutivo y sus Ministros, a los miembros de ambas Cámaras y de la Alta Corte de Justicia, por delitos de traición, concusión, malversación de fondos públicos, violación de la Constitución u otros delitos graves, después de haber conocido sobre ellos a petición de parte o de alguno de sus miembros y declarado haber lugar a la formación de causa.
-
-### CAPITULO III
-
-**Artículo 26**. La Cámara de Senadores se compondrá de tantos miembros cuantos sean los Departamentos del territorio de la República, a razón de uno por cada Departamento.
-
-**Artículo 27**. Su elección será indirecta, en la forma y tiempo que designará la ley.
-
-**Artículo 28**. Los Senadores durarán en sus funciones por seis años; debiendo renovarse por tercias partes en cada bienio.
-
-**Artículo 29**. Para ser Senador se necesita: ciudadanía natural en ejercicio o legal con siete años de ejercicio, y en ambos casos treinta y tres años cumplidos de edad.
-
-**Artículo 30**. Las calidades exclusivas que se han impuesto a los Representantes en los artículos 23 y 24 , comprenden también a los Senadores.
-
-**Artículo 31**. El ciudadano que fuere elegido Senador y Representante podrá escoger de los cargos el que más le acomode.
-
-**Artículo 32**. Los Senadores y Representantes, después de incorporados en sus respectivas Cámaras, no podrán recibir empleos del Poder Ejecutivo sin consentimiento de aquella a que cada uno pertenezca, y sin que quede vacante su representación en el acto de admitirlos.
-
-**Artículo 33**. Las vacantes que resulten por este u otro cualquier motivo durante las sesiones, se llenarán por suplentes designados al tiempo de las elecciones, del modo que expresará la Ley, y sin hacerse nueva elección.
-
-**Artículo 34**. Nadie podrá volver a ejercer las funciones de Senador sino después que haya pasado un bienio por lo menos desde su cese.
-
-**Artículo 35**. Los Senadores y Representantes serán compensados por sus servicios con una asignación mensual que percibirán durante el término de su mandato y que será fijada por dos terceras partes de votos de la Asamblea y por resolución especial, en el último período de cada Legislatura para los miembros de la siguiente. Dicha compensación les será satisfecha con absoluta independencia del Poder Ejecutivo.
-
-**Artículo 36**. Al Senado le corresponde abrir juicio público a los acusados por la Cámara de Representantes, y pronunciar sentencia con la concurrencia a lo menos de las dos terceras partes de votos, al solo efecto de separarlos de sus destinos.
-
-**Artículo 37**. La parte convencida y juzgada, quedará, no obstante, sujeta a acusación, juicio y castigo, conforme a la Ley.
+Su soberanía será ejercida directamente por el Cuerpo Electoral en los casos de elección, iniciativa y referéndum, e indirectamente por los Poderes representativos que establece esta Constitución; todo conforme a las reglas expresadas en la misma.
 
 ## SECCION V
 
-De las sesiones de la Asamblea General, Gobierno interior de sus dos Cámaras y de la Comisión Permanente
+Del Poder Legislativo
 
 ### CAPITULO I
 
-**Artículo 38**. La Asamblea General empezará su sesiones el 15 de Marzo de cada año, sesionando hasta el 15 de Diciembre o sólo hasta el 15 de Octubre en el caso de que haya elección de Representantes, debiendo en tal caso la nueva Asamblea empezar a sesionar el 15 de Febrero siguiente. La Asamblea se reunirá en las fechas indicadas sin necesidad de convocatoria especial del Poder Ejecutivo. Por razones graves y urgentes, las Cámaras, así como el Poder Ejecutivo, podrán hacer cesar el receso.
+**Artículo 73**. El Poder Legislativo será ejercido por la Asamblea General.
+
+**Artículo 74**. Esta se compondrá de dos Cámaras una de Representantes y otra de Senadores, las que actuarán separada o conjuntamente, según las distintas disposiciones de la presente Constitución.
+
+**Artículo 75**. A la Asamblea General compete:
+
+1) Formar y mandar publicar los Códigos;
+
+2) Establecer los Tribunales y arreglar la Administración de Justicia;
+
+3) Expedir Leyes relativas a la independencia, seguridad, tranquilidad y decoro de la República; protección de todos los derechos individuales y fomento de la ilustración, agricultura, industria, comercio interior y exterior;
+
+4) Establecer las contribuciones necesarias para cubrir los presupuestos de gastos, su distribución, el orden de su recaudación e inversión, y suprimir, modificar o aumentar las existentes;
+
+5) Aprobar o reprobar, en todo o en parte, las cuentas que presente el Poder Ejecutivo;
+
+6) Autorizar, a iniciativa del Poder Ejecutivo, la Deuda Pública Nacional, consolidarla, designar sus garantías y reglamentar el crédito público, requiriéndose, en los tres primeros casos, la mayoría absoluta del total de componentes de cada Cámara;
+
+7) Decretar la guerra, y aprobar o reprobar los tratados de paz, alianza, comercio y las convenciones y contratos de cualquier naturaleza que celebre el Poder Ejecutivo con potencias extranjeras;
+
+8) Designar todos los años la fuerza armada necesaria. Los efectivos militares sólo podrán ser aumentados por la mayoría absoluta de los componentes de cada Cámara;
+
+9) Crear nuevos departamentos por mayoría de dos tercios de votos sobre el total de los componentes de cada una de las Cámaras; arreglar sus límites; habilitar puertos; establecer aduanas y derechos de exportación e importación, aplicándose, en cuanto a estos últimos, lo dispuesto en el artículo 77 ;
+
+10) Justificar el peso, ley y valor de las monedas; fijar el tipo y denominación de las mismas, y arreglar el sistema de pesas y medidas;
+
+11) Permitir o prohibir que entren tropas extranjeras en el territorio de la República, determinando, para el primer caso, el tiempo en que deban salir de él.
+
+Se exceptúan las fuerzas que entran al solo efecto de rendir honores, cuya entrada será autorizada por el Poder Ejecutivo;
+
+12) Negar o conceder la salida de fuerzas nacionales fuera de la República, señalando, para este caso, el tiempo de su regreso a ella;
+
+13) Crear o suprimir empleos públicos, determinando sus atribuciones, dotaciones o retiros, y aprobar, reprobar o disminuir los presupuestos de gastos que presente el Poder Ejecutivo; acordar pensiones y recompensas pecuniarias o de otra clase, y decretar honores públicos a los grandes servicios;
+
+14) Conceder indultos o acordar amnistías en casos extraordinarios, por mayoría de dos tercios de votos sobre el total de componentes de cada una de las Cámaras;
+
+15) Hacer los reglamentos de milicias y determinar el tiempo y número en que deben reunirse;
+
+16) Elegir el lugar en que deban residir las primeras autoridades de la Nación;
+
+17) Conceder monopolios, requiriéndose para ello mayoría de dos tercios de votos sobre el total de componentes de cada una de las Cámaras.
+
+Para instituirlos en favor del Estado o de los Municipios, se requerirá la mayoría absoluta del total de componentes de cada Cámara;
+
+18) Elegir, en reunión de ambas Cámaras, y por dos tercios de votos de los presentes, los Ministros de la Suprema Corte de Justicia y los Miembros del Tribunal de Cuentas y del de lo Contencioso-Administrativo;
+
+19) Juzgar políticamente la conducta de los Ministros de Estado, según lo dispuesto en la Sección VIII .
+
+**Artículo 76**. La creación y supresión de empleos y servicios públicos; la fijación y modificación de dotaciones, así como la autorización para los gastos, se hará ordinariamente mediante el Presupuesto General, con sujeción a lo establecido en la Sección XII .
+
+Toda otra Ley que signifique gastos para el Tesoro Nacional, deberá indicar los recursos con que serán cubiertos; pero la iniciativa para la creación de empleos, aumento de dotaciones o retiros, asignación y aumento de pensiones o recompensas pecuniarias, corresponderá privativamente al Poder Ejecutivo.
+
+**Artículo 77**. Para sancionar impuestos se necesitará el voto conforme de la mayoría absoluta del total de componentes de cada Cámara.
 
 ### CAPITULO II
 
-**Artículo 39**. Cada Cámara será el juez privativo para calificar las elecciones de sus miembros.
+**Artículo 78**. La Cámara de Representantes se compondrá de noventa y nueve miembros elegidos directamente por el pueblo, en la forma que determina la Ley de Elecciones.
 
-**Artículo 40**. Las Cámaras se gobernarán interiormente por el Reglamento que cada una se forme respectivamente.
+Corresponderán a cada departamento dos Representantes, por lo menos.
 
-**Artículo 41**. Cada Cámara nombrará su Presidente, Vicepresidente y Secretarios.
+El número de Representantes podrá ser modificado por la Ley, la que requerirá para su sanción la mayoría de dos tercios de votos sobre el total de componentes de cada Cámara.
 
-**Artículo 42**. Fijará sus gastos anuales, y lo avisará al Poder Ejecutivo, para que los incluya en el Presupuesto General.
+**Artículo 79**. En todo el territorio de la República las elecciones ordinarias de Representantes se harán el último domingo del mes de marzo.
 
-**Artículo 43**. Ninguna de las Cámaras podrá abrir sus sesiones mientras no esté reunida más de la mitad de sus miembros, y si esto no se hubiese verificado el día que señala la Constitución, la minoría podrá reunirse para compeler a los ausentes bajo las penas que acordaren.
+**Artículo 80**. Los Representantes durarán en sus funciones por cuatro años, y su elección coincidirá con la del Presidente de la República, Senadores, Intendentes y Juntas Departamentales, sin perjuicio de lo dispuesto por el artículo 141 .
 
-**Artículo 44**. Las Cámaras se comunicarán por escrito entre sí y con el Poder Ejecutivo, por medio de sus respectivos Presidentes, y con autorización de un Secretario.
+**Artículo 81**. Para ser Representante se necesita ciudadanía natural en ejercicio, o legal con cinco años de ejercicio, y, en ambos casos, veinticinco años cumplidos de edad.
 
-**Artículo 45**. Los Senadores y Representantes jamás serán responsables por sus opiniones, discursos o debates, que emitan, pronuncien o sostengan durante el desempeño de sus funciones.
+**Artículo 82**. No pueden ser Representantes:
 
-**Artículo 46**. Ningún Senador o Representante, desde el día de su elección hasta el día de su cese, puede ser arrestado, sólo en el caso de delito in fraganti; y entonces se dará cuenta inmediatamente a la Cámara respectiva, con la información sumaria del hecho.
+1) Los miembros del Poder Judicial, del Tribunal de Cuentas y del de lo Contencioso-Administrativo, los Intendentes, los miembros de las Juntas Departamentales, de la Corte Electoral y de los Consejos o Directorios rentados de los Entes Autónomos;
 
-**Artículo 47**. Ningún Senador o Representante, desde el día de su elección hasta el de su cese, podrá ser acusado criminalmente, ni aún por delitos comunes que no sean los detallados en el artículo 25 , sino ante su respectiva Cámara; la cual, con las dos terceras partes de sus votos, resolverá si hay o no lugar a la formación de causa, y en caso afirmativo lo declarará suspenso de sus funciones y quedará a disposición del Tribunal competente.
+2) Los empleados militares o los civiles dependientes de los Poderes Legislativo, Ejecutivo o Judicial, de la Corte Electoral, del Tribunal de Cuentas y del de lo Contencioso-Administrativo, de los Municipios y de los Entes Autónomos, por servicios a sueldo, con excepción de los retirados o jubilados. Esta disposición no rige para los que desempeñen cargos universitarios docentes o universitarios técnicos con funciones docentes. Si el elegido opta por continuar desempeñándolos, será con carácter honorario por el tiempo que dure su mandato. Los militares que renuncien al cargo y al sueldo para ingresar al Cuerpo Legislativo, conservarán el grado, pero mientras duren sus funciones legislativas no podrán ser ascendidos, estarán exentos de toda subordinación militar y no se contará el tiempo que permanezcan desempeñando funciones legislativas a los efectos de la antigüedad para el ascenso.
 
-**Artículo 48**. Cada Cámara puede también, con las dos terceras partes de votos, corregir a cualquiera de sus miembros por desorden de conducta en el desempeño de sus funciones, o removerlo por imposibilidad física o moral, superviniente a su incorporación, pero bastará la mayoría de uno sobre la mitad de los presentes, para admitir las renuncias voluntarias.
+**Artículo 83**. No pueden ser candidatos a Representantes, el Presidente de la República, ni los Intendentes, Jefes de Policía, y Jueces y Fiscales Letrados en los departamentos en que desempeñen sus funciones, ni los militares en la región en que tengan mando de fuerzas o ejerzan en actividad alguna función militar, salvo que renuncien con tres meses de anticipación al acto electoral.
 
-**Artículo 49**. Todo legislador puede pedir a los Ministros de Estado los datos o informes que estime necesarios para llenar su cometido. El pedido se hará por escrito y por intermedio del Presidente de la Cámara respectiva, el que lo transmitirá de inmediato al Ministro.
-
-Si el Ministro no facilitare los informes, el legislador podrá solicitarlos por medio de la Cámara a que pertenezca.
-
-**Artículo 50**. Cada una de las Cámaras tiene facultad, por resolución de la tercera parte de sus miembros, de hacer venir a su Sala a los Ministros de Estado para pedirles y recibir los informes que estime convenientes, ya sea con fines legislativos, de inspección o de fiscalización.
-
-**Artículo 51**. Las Cámaras podrán nombrar comisiones parlamentarias de investigación o para suministrar datos con fines legislativos.
+**Artículo 84**. Compete a la Cámara de Representantes el derecho exclusivo de acusar ante el Senado, al Presidente de la República y los Ministros de Estado, a los miembros de ambas Cámaras, de la Suprema Corte de Justicia y del Tribunal de lo Contencioso-Administrativo, por delitos de traición, concusión, malversación de fondos públicos, violación de la Constitución u otros delitos graves, después de haber reconocido sobre ellos a petición de parte o de alguno de sus miembros, y declarado haber lugar a la formación de causa.
 
 ### CAPITULO III
 
-**Artículo 52**. Mientras la Asamblea estuviere en receso, habrá una Comisión Permanente, compuesta de dos Senadores y de cinco Representantes, nombrados unos y otros a pluralidad de votos por sus respectivas Cámaras, debiendo la de los primeros designar cuál ha de investir el carácter de Presidente y cuál el de Vicepresidente.
+**Artículo 85**. La Cámara de Senadores se compondrá de treinta miembros elegidos directamente por el pueblo en una sola circunscripción electoral, de acuerdo con las garantías que para el sufragio se establecen en la Sección III y conforme a lo que expresan los artículos siguientes.
 
-**Artículo 53**. Al mismo tiempo que se haga esta elección, se hará la de un suplente para cada uno de los siete miembros, que entre a llenar sus deberes en los casos de enfermedad, muerte u otros que ocurran de los titulares.
+Será integrada con el Vicepresidente de la República quien tendrá voz y voto y ejercerá su Presidencia.
 
-**Artículo 54**. La Comisión Permanente velará sobre la observancia de la Constitución y de las Leyes, haciendo al Poder Ejecutivo las advertencias convenientes al efecto, bajo de responsabilidad para ante la Asamblea General.
+**Artículo 86**. De los treinta miembros elegidos en la forma del artículo anterior, corresponderán quince a la lista más votada del lema más votado, y quince a la lista más votada del lema que siga en número de votos.
 
-**Artículo 55**. Para el caso de que dichas advertencias hechas hasta por segunda vez, no surtieren efecto, podrá por sí sola, según la importancia y gravedad del asunto, convocar a la Asamblea General ordinaria y extraordinaria.
+**Artículo 87**. Sin perjuicio de lo dispuesto en el artículo anterior, previamente al acto electoral y de acuerdo con lo que al respecto preceptúe la Ley de Elecciones, los partidos políticos permanentes que hubieran intervenido por lo menos en una elección nacional, al autorizar a más de una lista el uso de su lema, deberán establecer expresamente si entre ellas se aplicará la representación proporcional. En tal caso, ésta sólo tendrá lugar entre las listas de ese lema y referida a los quince Senadores que le correspondan.
 
-**Artículo 56**. Corresponderá también a la Comisión Permanente prestar o rehusar su consentimiento en todos loa actos en que el Poder Ejecutivo lo necesite, con arreglo a la presente Constitución, y la facultad concedida a las Cámaras en los artículos 59 y siguientes.
+**Artículo 88**. El régimen de los dos artículos anteriores sólo se hará efectivo cuando los dos lemas más votados en la elección de Presidente y Vicepresidente de la República, y que a la vez hayan concurrido a la de Senado, reúnan la mayoría absoluta de los sufragios válidos emitidos en la elección presidencial.
+
+Cuando dichos lemas no hubieran alcanzado ese número de votos, se aplicará el sistema de la representación proporcional a la composición de todo el Senado.
+
+En el caso de disolución del Parlamento, los lemas más votados se referirán a los que concurran a la elección de Senadores.
+
+**Artículo 89**. Los Senadores durarán en sus funciones por cuatro años, y su elección se hará conforme a lo dispuesto en los artículos 79 y 80 .
+
+**Artículo 90**. Para ser Senador se necesita ciudadanía natural en ejercicio, o legal con siete años de ejercicio, y, en ambos casos, treinta años cumplidos de edad.
+
+**Artículo 91**. Las calidades exclusivas que se han impuesto a los Representantes en los artículos 82 y 83 , corresponden también a los Senadores.
+
+**Artículo 92**. El ciudadano que fuere elegido Senador y Representante podrá escoger de los cargos el que más le acomode.
+
+**Artículo 93**. Al Senado corresponde abrir juicio público a los acusados por la Cámara de Representantes, y pronunciar sentencia con la concurrencia, a lo menos, de las dos terceras partes de votos, al solo efecto de separarlos de sus destinos.
+
+**Artículo 94**. La parte convencida y juzgada quedará, no obstante, sujeta a acusación, juicio y castigo, conforme a la ley.
 
 ## SECCION VI
+
+De las Sesiones de la Asamblea General. - Disposiciones comunes a ambas Cámaras. - De la Comisión Permanente
+
+### CAPITULO I
+
+**Artículo 95**. La Asamblea General empezará sus sesiones el 15 de marzo de cada año, sesionando hasta el 15 de diciembre, con excepción del primer período anual de cada Legislatura, en que las sesiones comenzarán el 25 de mayo.
+
+La Asamblea se reunirá en las fechas indicadas sin necesidad de convocatoria especial del Poder Ejecutivo.
+
+Sólo por razones graves y urgentes podrán las Cámaras, así como el Poder Ejecutivo, hacer cesar el receso, y con el exclusivo objeto de tratar los asuntos que han motivado la convocación.
+
+### CAPITULO II
+
+**Artículo 96**. Las Cámaras se gobernarán interiormente por el Reglamento que cada una se forme respectivamente y, reunidas ambas, por el de la Asamblea General.
+
+**Artículo 97**. Las pensiones graciables serán resueltas mediante el voto secreto.
+
+Los reglamentos de cada Cámara y de la Asamblea General podrán extender ese régimen a los casos de venias y designaciones.
+
+**Artículo 98**. Cada Cámara nombrará su Presidente, Vicepresidente y Secretarios, con excepción del Presidente del Senado, estándose a lo dispuesto por el artículo 85 , inciso 2º.
+
+**Artículo 99**. En los casos de vacancia temporal o definitiva de la Presidencia del Senado, ésta será desempeñada por el primer Vicepresidente de ese Cuerpo, quien también desempeñará la Presidencia de la Asamblea General.
+
+En tal caso, se integrará el Senado con el primer suplente que corresponda a la lista más votada del lema con que hubiera sido electo el Vicepresidente de la República.
+
+**Artículo 100**. Cada Cámara fijará sus gastos anuales por mayoría absoluta de votos del total de sus componentes, y lo avisará al Poder Ejecutivo para que los incluya en el Presupuesto General.
+
+**Artículo 101**. Ninguna de las Cámaras podrá abrir sus sesiones mientras no esté reunida más de la mitad de sus miembros, y si esto no se hubiese realizado el día que señala la Constitución, la minoría podrá reunirse para compeler a los ausentes bajo las penas que acordaren.
+
+**Artículo 102**. Las Cámaras se comunicarán por escrito entre sí y con los demás Poderes, por medio de sus respectivos Presidentes, y con la autorización de un Secretario.
+
+**Artículo 103**. Los Senadores y Representantes jamás serán responsables por los votos y opiniones que emitan durante el desempeño de sus funciones.
+
+**Artículo 104**. Ningún Senador o Representante, desde el día de su elección hasta el de su cese, puede ser arrestado, salvo en el caso de delito infraganti y entonces se dará cuenta inmediata a la Cámara respectiva, con la información sumaria del hecho.
+
+**Artículo 105**. Ningún Senador o Representante, desde el día de su elección hasta el de su cese, podrá ser acusado criminalmente, ni aún por delitos comunes que no sean de los detallados en el artículo 84 , sino ante su respectiva Cámara, la cual, con las dos terceras partes del total de sus componentes, resolverá si hay o no lugar a la formación de causa, y, en caso afirmativo, lo declarará suspenso en sus funciones y quedará a disposición del Tribunal competente.
+
+**Artículo 106**. Cada Cámara puede también corregir a cualquiera de sus miembros por desorden de conducta en el desempeño de sus funciones, y hasta suspenderlo en el ejercicio de las mismas, con el voto de las dos terceras partes del total de sus componentes.
+
+Por igual número de votos podrá removerlo por imposibilidad física o incapacidad mental superviniente a su incorporación.
+
+Bastará la mayoría de uno sobre la mitad de los presentes para admitir las renuncias voluntarias.
+
+**Artículo 107**. Todo Legislador puede pedir a los Ministros de Estado, a la Suprema Corte de Justicia, a la Corte Electoral, al Tribunal de Cuentas y al de lo Contencioso-Administrativo, los datos e informes que estime necesarios para llenar su cometido. El pedido se hará por escrito y por intermedio del Presidente de la Cámara respectiva, el que lo trasmitirá de inmediato al órgano que corresponda. Si éste no facilitare los informes dentro del plazo que fijará la Ley, el Legislador podrá solicitarlos por intermedio de la Cámara a que pertenezca, estándose a lo que ésta resuelva.
+
+No podrá ser objeto de dicho pedido lo relacionado con la materia y competencia jurisdiccionales del Poder Judicial y del Tribunal de la Contencioso-Administrativo.
+
+**Artículo 108**. Cada una de las Cámaras tiene facultad, por resolución de la tercera parte del total de sus componentes, de hacer venir a Sala a los Ministros de Estado para pedirles y recibir los informes que estime convenientes, ya sea con fines legislativos, de inspección o de fiscalización, sin perjuicio de lo dispuesto en la Sección VIII .
+
+Cuando los informes se refieran a Entes Autónomos o Servicios descentralizados, los Ministros podrán requerir la asistencia conjunta de un representante del respectivo Consejo o Directorio.
+
+**Artículo 109**. Las Cámaras podrán nombrar Comisiones Parlamentarias de Investigación o para suministrar datos con fines legislativos.
+
+**Artículo 110**. En los casos previstos por los tres artículos anteriores, cualquiera de las Cámaras podrá formular declaraciones, sin perjuicio de lo dispuesto en la Sección VIII .
+
+**Artículo 111**. Los Senadores y Representantes, después de incorporados a sus respectivas Cámaras, no podrán recibir empleos rentados de los Poderes del Estado, de los Municipios, de los Entes Autónomos o de cualquier otro órgano público, ni prestar servicios retribuidos por ellos en cualquier forma, sin consentimiento de la Cámara a que pertenezcan, quedando en todos los casos vacante su representación en el acto de recibir el empleo o de prestar el servicio.
+
+Esta disposición no comprende a los Senadores y Representantes llamados a desempeñar Ministerios o Subsecretarías de Estado. En este caso quedarán suspendidos en sus funciones legislativas, sustituyéndoseles, mientras dure la suspensión, por el suplente respectivo.
+
+**Artículo 112**. La función legislativa es también incompatible con el ejercicio de todo otro cargo público electivo, cualquiera sea su naturaleza.
+
+**Artículo 113**. Los Senadores y Representantes tampoco podrán durante su mandato:
+
+1) Intervenir como Directores, Administradores o empleados, en empresas que contraten obras o suministros con el Estado, los Municipios, Entes Autónomos o cualquier otro órgano público;
+
+2) Tramitar o dirigir asuntos de terceros ante la Administración Central, Municipios y Entes Autónomos.
+
+La inobservancia de lo preceptuado en este artículo importará la pérdida inmediata del cargo legislativo.
+
+**Artículo 114**. La incompatibilidad dispuesta por el inciso primero del artículo 111 alcanzará a los Senadores y Representantes hasta un año después de la terminación de su mandato, salvo expresa autorización de la Cámara respectiva.
+
+**Artículo 115**. Las vacantes que por cualquier motivo se produzcan en cada Legislatura, se llenarán por los suplentes designados al tiempo de las elecciones, del modo que expresará la Ley, y sin hacerse nueva elección.
+
+La Iey podrá autorizar también la convocatoria de suplentes por irnpedimento temporal o licencia de los Legisladores titulares.
+
+**Artículo 116**. Los Senadores y Representantes serán compensados por sus servicios con una asignación mensual, que percibirán durante el término de su mandato, y que será fijada por las dos terceras partes de votos de la Asamblea, y por resolución especial, en el último período de cada Legislatura, para los miembros de la siguiente. Dicha compensación les será satisfecha con absoluta independencia del Poder Ejecutivo.
+
+### CAPITULO III
+
+**Artículo 117**. Habrá una Comisión Permanente compuesta de cuatro Senadores, dos por la mayoría y dos por la minoría mayor, y de siete Representantes elegidos por el voto proporcional, designados unos y otros por sus respectivas Cámaras. Será Presidente de la Comisión un Senador de la mayoría, y Vicepresidente, uno de la minoría.
+
+La designación se hará anualmente, dentro de los quince días de la constitución de la Asamblea General o de la iniciación de cada período de sesiones ordinarias de la Legislatura.
+
+**Artículo 118**. Al mismo tiempo que se haga esta elección, se hará la de un suplente para cada uno de los once miembros, que entre a llenar sus funciones en los casos de enfermedad, muerte u otros que ocurran, de los titulares.
+
+**Artículo 119**. La Comisión Permanente velará sobre la observancia de la Constitución y de las Leyes, haciendo al Poder Ejecutivo las advertencias convenientes al efecto, bajo responsabilidad para ante la Asamblea General actual o siguiente, en su caso.
+
+**Artículo 120**. Para el caso de que dichas advertencias hechas hasta por segunda vez, no surtieran efecto, podrá por sí sola, según la importancia o gravedad del asunto, convocar a la Asamblea General ordinaria y extraordinaria.
+
+En el caso de haber sido disuelto el Parlamento, dará cuenta a la Asamblea General al constituirse las nuevas Cámaras.
+
+**Artículo 121**. Ejercerá sus funciones mientras la Asamblea General estuviere en receso y hasta que se reinicien sus sesiones ordinarias.
+
+Cuando aquella hubiere sido disuelta, actuará hasta que se constituya la que fuere electa.
+
+**Artículo 122**. Corresponderá también a la Comisión Permanente prestar o rehusar su consentimiento en todos los casos en que el Poder Ejecutivo lo necesite con arreglo a la presente Constitución, y la facultad concedida a las Cámaras en los artículos 107 y siguientes, sin perjuicio de lo dispuesto por el inciso 14 del artículo 158 .
+
+## SECCION VII
 
 De la proposición, discusión, sanción y promulgación de las Leyes
 
 ### CAPITULO I
 
-**Artículo 57**. Todo proyecto de ley, a excepción de los del artículo 25 , puede tener su origen en cualquiera de las dos Cámaras, a consecuencia de proposiciones hechas por cualquiera de sus miembros, o por el Poder Ejecutivo por medio de sus Ministros.
+**Artículo 123**. Todo proyecto de Ley puede tener su origen en cualquiera de las dos Cámaras, a consecuencia de proposiciones hechas por cualquiera de sus miembros, o por el Poder Ejecutivo por medio de sus Ministros, sin perjuicio de lo dispuesto en el inciso 6º del artículo 75 , y artículo 76.
 
 ### CAPITULO II
 
-**Artículo 58**. Si la Cámara en que tuvo principio el proyecto lo aprueba, lo pasará a la otra, para que, discutida en ella, lo apruebe también, lo reforme, adicione o deseche.
+**Artículo 124**. Si la Cámara en que tuvo principio el proyecto, lo aprueba, lo pasará a la otra para que, discutido en ella, lo apruebe también, lo reforme, adicione o deseche.
 
-**Artículo 59**. Si cualquiera de las dos Cámaras a quien se remitiese un proyecto de Ley lo devolviese con adiciones u observaciones, y la remitente se conformase con ellas, se lo avisará en contestación y quedará para pasarlo al Poder Ejecutivo; pero si no las hallare justas, e insistiese en sostener su proyecto tal y cual lo había remitido al principio, podrá en tal caso, por medio de oficio, solicitar la reunión de ambas Cámaras y según el resultado de la discusión, se adoptará lo que deliberen los dos tercios de sufragios.
+**Artículo 125**. Si cualquiera de las dos Cámaras a quien se remitiese un proyecto de Ley, lo devolviese con adiciones u observaciones, y la remitente se conformase con ellas, se lo avisará en contestación, y quedará para pasarlo al Poder Ejecutivo; pero si no las hallare justas e insistiese en sostener su proyecto tal y cual lo había remitido al principio, podrá en tal caso, por medio de oficio, solicitar la reunión de ambas Cámaras y, según el resultado de la discusión, se adoptará lo que decidan los dos tercios de sufragios, pudiéndose modificar los proyectos divergentes o, aún, aprobar otro nuevo.
 
-**Artículo 60**. Si la Cámara a quien fuese remitido el proyecto no tiene reparo que oponerle, lo aprobará, y sin más que avisarlo a la Cámara remitente, lo pasará al Poder Ejecutivo para que lo haga publicar.
+**Artículo 126**. Si la Cámara a quien fuese remitido el proyecto no tiene reparos que oponerle, lo aprobará, y sin más que avisarlo a la Cámara remitente, lo pasará al Poder Ejecutivo para que lo haga publicar.
 
-**Artículo 61**. Si recibido un proyecto de Ley, el Poder Ejecutivo tuviera objeciones que oponer u observaciones que hacer, lo devolverá con ellas al Presidente del Senado dentro del plazo perentorio de diez días.
+Los proyectos de Ley no sancionados por una y otra Cámara en la misma Legislatura, se considerarán como iniciados en la Cámara que los sancione ulteriormente.
 
-**Artículo 62**. Cuando un proyecto de Ley fuese devuelto por el Poder Ejecutivo con objeciones u observaciones, la Cámara a quien se devuelva invitará a la otra para reunirse a considerarlo, y se estará a lo que deliberen los tres quintos de los miembros presentes en la Asamblea.
+**Artículo 127**. Si recibido un proyecto de Ley, el Poder Ejecutivo tuviera objeciones que oponer u observaciones que hacer, lo devolverá con ellas a la Asamblea General dentro del plazo perentorio de diez días.
 
-Bastará la mayoría absoluta del voto de la Asamblea en los proyectos respecto a cuya promulgación ocurra divergencia entre el Presidente de la República y el Consejo Nacional de Administración.
+**Artículo 128**. Cuando un proyecto de Ley fuese devuelto por el Poder Ejecutivo con objeciones u observaciones, se convocará a la Asamblea General y se estará a lo que decidan los tres quintos de los miembros presentes.
 
-**Artículo 63**. Si las Cámaras reunidas desaprobaren el proyecto devuelto por el Ejecutivo, quedará suprimido por entonces, y no podrá ser presentado de nuevo hasta la siguiente Legislatura.
+**Artículo 129**. Si las observaciones del Poder Ejecutivo se refiriesen a una parte del proyecto, la Asamblea, por mayoría absoluta de presentes podrá ratificarlo ajustándose a aquéllas.
 
-**Artículo 64**. En todo caso de reconsideración de un proyecto devuelto por el Ejecutivo, las votaciones serán nominales por sí o por no; y tanto los nombres y fundamentos de los sufragantes, como las objeciones u observaciones del Poder Ejecutivo, se publicarán inmediatamente por la prensa.
+**Artículo 130**. Si las Cámaras reunidas desaprobaren el proyecto devuelto por el Poder Ejecutivo, quedará sin efecto por entonces y no podrá ser presentado de nuevo hasta la siguiente Legislatura.
 
-**Artículo 65**. Cuando un proyecto hubiere sido desechado al principio por la Cámara a quien la otra se lo remita, quedará suprimido por entonces, y no podrá ser presentado hasta el siguiente período de la Legislatura.
+**Artículo 131**. En todo caso de reconsideración de un proyecto devuelto por el Ejecutivo, las votaciones serán nominales por sí o por no, y tanto los nombres y fundamentos de los sufragantes, como las objeciones u observaciones del Poder Ejecutivo, se publicarán inmediatamente por la prensa.
+
+**Artículo 132**. Cuando un proyecto hubiere sido desechado al principio por la Cámara a quien la otra se lo remita, quedará sin efecto por entonces, y no podrá ser presentado hasta el siguiente período de la Legislatura.
 
 ### CAPITULO III
 
-**Artículo 66**. Si el Poder Ejecutivo, habiéndosele remitido un proyecto de Ley, no tuviese reparo que oponerle, lo avisará inmediatamente, quedando así de hecho sancionado y expedito para ser promulgado sin demora.
+**Artículo 133**. Si el Poder Ejecutivo, a quien se hubiere remitido un proyecto de Ley, no tuviese reparo que oponerle, lo avisará inmediatamente, quedando así de hecho sancionado y expedito para ser promulgado sin demora.
 
-**Artículo 67**. Si el Ejecutivo no devolviese el proyecto de Ley, cumplidos los diez días que establece el artículo 61 , tendrá fuerza de Ley y se publicará como tal; reclamándose esto, en caso omiso, por la Cámara remitente.
+**Artículo 134**. Si el Ejecutivo no devolviese el proyecto, cumplidos los diez días que establece el artículo 127, tendrá fuerza de Ley y se cumplirá como tal, reclamándose esto, en caso omiso, por la Cámara remitente.
 
-**Artículo 68**. Reconsiderado por las Cámaras reunidas un proyecto de Ley que hubiese sido devuelto por el Poder Ejecutivo con objeciones u observaciones, si aquéllas lo aprobaren nuevamente, se tendrá por última sanción, y comunicado al Poder Ejecutivo, lo hará promulgar en seguida sin más reparos.
+**Artículo 135**. Reconsiderado por las Cámaras reunidas un proyecto de Ley que hubiese sido devuelto por el Poder Ejecutivo con objeciones u observaciones, si aquéllas lo aprobaren nuevamente, se tendrá por su última sanción, y comunicado al Poder Ejecutivo, lo hará promulgar en seguida sin más reparos.
 
 ### CAPITULO IV
 
-**Artículo 69**. Sancionada una Ley, para su promulgación, se usará siempre esta fórmula:
+**Artículo 136**. Sancionada una Ley, para su promulgación, se usará siempre de esta fórmula:
 
 "El Senado y la Cámara de Representantes de la República Oriental del Uruguay, reunidos en Asamblea General, etc., etc., decretan:"
 
-## SECCION VII
-
-Del Poder Ejecutivo, sus atribuciones, deberes y prerrogativas
-
-### CAPITULO I
-
-**Artículo 70**. El Poder Ejecutivo es delegado al Presidente de la República y al Consejo Nacional de Administración.
-
-### CAPITULO II
-
-**Artículo 71**. El Presidente de la República será elegido directamente por el pueblo, a mayoría simple de votantes, mediante el sistema del doble voto simultáneo y con las garantías que para el sufragio establece la Sección II, considerándose la República como una sola circunscripción.
-
-La elección de Presidente de la República se efectuará el último domingo del mes de Noviembre.
-
-**Artículo 72**. Para ser nombrado Presidente se necesita: ciudadanía natural y las demás calidades precisas para Senador que fija el artículo 29 .
-
-**Artículo 73**. Las funciones de Presidente durarán cuatro años y no podrá ser reelecto, ni ocupar la Presidencia durante un interinato o período complementario, sin que medien ocho años entre su cese y la reelección. La misma disposición es aplicable al Presidente elegido por el período complementario, cuando hubiese desempeñado la Presidencia por más de un año.
-
-**Artículo 74**. Antes de entrar en el ejercicio de su cargo, el Presidente de la República, el 1º de Marzo siguiente a su elección, hará ante el Presidente del Senado y en presencia de ambas Cámaras y del Consejo, la siguiente declaración:
-
-"Yo (N.) me comprometo por mi honor a desempeñar lealmente el cargo que se me ha confiado y guardar y defender la Constitución de la República".
-
-**Artículo 75**. En los casos de enfermedad o ausencia del Presidente de la República, o mientras se proceda a nueva elección por muerte, renuncia o destitución, o por cesación de hecho, en virtud de haber expirado el término de la ley, le suplirá de inmediato el miembro del Consejo que éste designe, quedando en suspenso en las funciones de Consejero.
-
-**Artículo 76**. En caso de quedar vacante la Presidencia de la República, la Asamblea General será convocada para elegir, a mayoría absoluta de votos, la persona que debe desempeñarla hasta el 1º de Marzo siguiente a las más próximas elecciones de miembros del Consejo, en cuyo acto deberá elegirse el nuevo Presidente de la República.
-
-**Artículo 77**. La dotación de Presidente de la República será fijada por ley, previamente a cada elección, sin que pueda ser alterada mientras dure en el desempeño del cargo.
-
-**Artículo 78**. El Senado será el juez de la elección de Presidente de la República.
-
-### CAPITULO III
-
-**Artículo 79**. Al Presidente de la República corresponde:
-
-1) La representación del Estado en el interior y en el exterior.
-
-2) La conservación del orden y la tranquilidad en lo interior y la seguridad en lo exterior.
-
-3) El mando superior de todas las fuerzas de mar y tierra, estando exclusivamente encargado de su dirección; aunque no podrá mandarlas en persona sin previo consentimiento de la Asamblea General, otorgado por dos tercios de votos de miembros presentes.
-
-4) Nombrar y destituir los Ministros de Relaciones Exteriores, Guerra y Marina e Interior y los empleados de estas secretarías.
-
-5) Dar retiros, conceder licencias y arreglar las pensiones de los empleados civiles y militares con arreglo a las leyes.
-
-6) Publicar y circular, sin demora, todas las leyes que conforme a la Sección VI se hallen ya en estado de publicar y circular; ejecutarlas, hacerlas ejecutar, expidiendo los reglamentos especiales que sean necesarios para su ejecución.
-
-7) Informar al Poder Legislativo, al inaugurar las sesiones ordinarias, sobre el estado de la República y las mejoras y reformas que considere dignas de su atención.
-
-8) Poner objeciones o hacer observaciones a los proyectos de ley que le remita el Poder Legislativo, y suspender su promulgación con las restricciones y calidades prevenidas en la Sección VI.
-
-9) Proponer a las Cámaras proyectos de ley o modificaciones a las anteriormente dictadas.
-
-10) Convocar al Poder Legislativo a sesiones extraordinarias siempre que lo crea conveniente, con determinación de los asuntos materia de la convocatoria, y sin perjuicio del derecho del Consejo y de cada Cámara, así como de la Comisión Permanente, de suspender, en igual forma, el receso parlamentario.
-
-11) Proveer los empleos civiles y militares.
-
-12) Destituir los empleados por ineptitud, omisión o delito; en los dos primeros casos con acuerdo del Senado, o en su receso con el de la Comisión Permanente, y en el último pasando después el expediente a la justicia para que sean juzgados legalmente.
-
-13) Conceder los ascensos militares conforme a las leyes, necesitando para los de coronel y demás oficiales Superiores la venia del Senado o en su receso, de la Comisión Permanente.
-
-14) Nombrar el personal consular y diplomático con obligación de solicitar el acuerdo del Senado o de la Comisión Permanente, hallándose aquél en receso, para los Jefes de Misión Diplomática.
-
-15) Nombrar los Jefes de Policía, eligiéndolos de una terna propuesta por el Consejo para cada caso, y separarlos por sí.
-
-16) Destituir por sí los empleados militares y policiales.
-
-17) Recibir Agentes Diplomáticos y autorizar al ejercicio de sus funciones a los Cónsules extranjeros.
-
-18) Declarar la guerra, previa resolución de la Asamblea General, si fuese imposible el arbitraje, o éste no diere resultado.
-
-19) Tomar medidas prontas de seguridad en los casos graves e imprevistos de ataque exterior o conmoción interior, dando cuenta dentro de las veinticuatro horas al Consejo y a la Asamblea General, o en su receso a la Comisión Permanente, de lo ejecutado y sus motivos, estando a lo que estas últimas resuelvan. Esta atribución está limitada por lo que disponen los artículos 80 , 152 y 168 .
-
-20) Recaudar las rentas que, conforme a las leyes, deben serlo por sus dependencias, y verterlas en el Tesoro de la Nación.
-
-21) Dictaminar por escrito o por intermedio del Ministro respectivo, al Consejo, sobre iniciativas de leyes de empréstitos, creación o modificación de impuestos, preparación del Presupuesto General de Gastos, circulación monetaria o fiduciaria, o que se relacionen con el comercio internacional.
-
-22) Presentar anualmente al Consejo su Presupuesto de Gastos del año entrante, y dar cuenta instruida de la inversión hecha en el anterior.
-
-23) Concluir Tratados, pidiendo antes de suscribirlos la opinión del Consejo y necesitando para que sean ratificados la aprobación del Poder Legislativo.
-
-24) Prestar, a requerimiento del Consejo o del Poder Judicial, el concurso de la fuerza pública.
-
-### CAPITULO IV
-
-**Artículo 80**. El Presidente de la República no podrá salir del territorio de la misma por más de cuarenta y ocho horas, sin autorización del Poder Legislativo; ni privar a individuo alguno de su libertad personal, y en el caso de exigirlo así urgentísimamente el interés público, se limitará al simple arresto de la persona, con obligación de ponerla en el perentorio término de veinticuatro horas a disposición de su Juez competente; ni permitir goce de sueldo por otro título que el del servicio activo, jubilación, retiro o montepío, conforme a las leyes; ni expedir órdenes sin la firma de su Ministro respectivo, sin cuyo requisito nadie estará obligado a obedecerlas.
-
-**Artículo 81**. No podrá ser acusado sino por los delitos y en la forma que señala el artículo 25 ; no podrá hacerse esta acusación sino durante el ejercicio del cargo o dentro de los seis meses siguientes a la expiración del mismo, en los que estará sometido a residencia, salvo autorización del Poder Legislativo para salir del país, concedida por mayoría absoluta de sufragios. Cuando la acusación haya reunido los dos tercios de votos de la Cámara de Representantes, el Presidente quedará suspendido en el ejercicio de sus funciones.
-
 ## SECCION VIII
 
-Del Consejo Nacional de Administración, sus atribuciones, deberes y prerrogativas
+De las relaciones entre el Poder Legislativo y el Poder Ejecutivo
 
-### CAPITULO I
+### CAPITULO UNICO
 
-**Artículo 82**. El Consejo Nacional de Administración se compondrá de nueve miembros, elegidos directamente por el pueblo el último domingo del mes de Noviembre, mediante el sistema del doble voto simultáneo, por lista incompleta, y con las garantías que para el sufragio establece la Sección II, correspondiendo las dos terceras partes de la representación a la lista más votada, y la tercera restante a la del otro partido que le siga en el número de sufragios obtenidos. Conjuntamente con los Consejeros titulares se elegirán, en la misma forma, otros tantos suplentes.
+**Artículo 137**. La Asamblea General, a petición de cualquiera de las Cámaras podrá juzgar políticamente la conducta de los Ministros de Estado, desaprobando sus actos de administración o de gobierno.
 
-**Artículo 83**. No puede ser electo Consejero por elección popular el Presidente de la República, si no ha cesado en su cargo seis meses antes de la elección.
+**Artículo 138**. La petición podrá ser formulada por cualquiera de las Cámaras, por mayoría absoluta de presentes, y, una vez comunicada, se convocará a la Asamblea General, con citación anticipada de siete días por lo menos.
 
-**Artículo 84**. Ejercerá la Presidencia del Consejo el Consejero elegido en primer término en la lista de la mayoría en la última renovación bienal, y en caso de renuncia, muerte o destitución, hasta la terminación del bienio, el segundo de la misma lista.
+**Artículo 139**. La desaprobación podrá ser colectiva o no, debiendo ser pronunciada en uno y otro caso, por la mayoría absoluta de componentes de la Asamblea General, en sesión especial y pública. Sin embargo, podrá optarse por la sesión secreta cuando así lo exijan las circunstancias.
 
-**Artículo 85**. Los Consejeros durarán seis años en el ejercicio de sus funciones, debiendo renovarse por terceras partes cada bienio, y gozarán de la asignación que les fijará una ley especial, que deberá dictarse antes de cada integración bienal.
+Se entenderá por desaprobación colectiva la que afecte a la mayoría del Gabinete.
 
-**Artículo 86**. El Senado será el juez de la elección.
+**Artículo 140**. La desaprobación de la Asamblea General determinará la renuncia de los Ministros o del Consejo, según los casos, y el Presidente hará las sustituciones correspondientes, respetando en todos ellos la proporción establecida en el artículo 163 .
 
-**Artículo 87**. Los Consejeros electos tomarán posesión de sus cargos el 1º de Marzo siguiente, y harán ante el Presidente del Senado y en presencia de ambas Cámaras y del Consejo, la siguiente declaración:
+**Artículo 141**. El Presidente de la República podrá observar el voto de desaprobación cuando sea pronunciado por menos de dos tercios del total de componentes de la Asamblea General.
 
-"Yo (N.) me comprometo por mi honor a desempeñar lealmente el cargo que se me ha confiado y guardar y defender la Constitución de la República".
+Si ésta mantuviera su voto por un número inferior al mencionado, el Presidente de la República podrá disolver las Cámaras. En tal caso, deberá convocarse a elecciones, las que se realizarán dentro del término de sesenta días, a partir de la fecha del decreto de disolución.
 
-**Artículo 88**. Nadie puede volver a ejercer las funciones de Consejero sin que hayan transcurrido dos años desde su cese.
+Tratándose de desaprobación no colectiva, el Presidente de la República no podrá ejercer esa facultad sino por una sola vez durante el término de su mandato.
 
-**Artículo 89**. Para ser elegido miembro del Consejo se requiere, ciudadanía natural o legal con quince años de ejercicio o veinte de residencia en el país y 33 años de edad.
+El decreto de disolución y el de convocatoria deberán expedirse conjuntamente.
 
-### CAPITULO II
+**Artículo 142**. Las Cámaras disueltas se reunirán de pleno derecho y recobrarán sus facultades constitucionales como Poder legítimo del Estado, desde el momento en que el Poder Ejecutivo no dé cumplimiento al decreto de convocatoria a las nuevas elecciones, y caerá el Consejo de Ministros.
 
-**Artículo 90**. El Consejo celebrará sesión con la concurrencia de cinco de sus miembros por lo menos. El Presidente del Consejo tiene voz y voto.
+**Artículo 143**. Dentro de los quince días de su constitución, la nueva Asamblea General, por mayoría absoluta de sus componentes, mantendrá o revocará el voto de desaprobación.
 
-**Artículo 91**. Todas las resoluciones del Consejo serán revocables por el voto de la mayoría de sus miembros.
+Si lo mantuviera, caerán el Presidente de la República y el Consejo de Ministros.
 
-**Artículo 92**. Podrá en cualquier momento ponerse término a una deliberación del Consejo, por mayoría de votos. La moción que se haga con ese fin no será discutida.
+**Artículo 144**. Las Cámaras elegidas extraordinariamente completarán el término de duración normal de las disueltas.
 
-**Artículo 93**. Los Consejeros no gozarán de licencia con sueldo por más de tres meses, ni por más de un año sin goce de sueldo, y la inasistencia sin licencia a veinte sesiones en el término de dos años, determinará su cese, cualquiera que sea la causa.
+**Artículo 145**. El Presidente de la República no podrá disolver las Cámaras en los últimos seis meses de su mandato.
 
-**Artículo 94**. Cuando se conceda licencia a un Consejero por más de quince días, o se produzca, por cualquier motivo, una vacante definitiva o temporal, se convocará al suplente del mismo partido, empezando por los últimamente electos.
-
-**Artículo 95**. El Consejo se gobernará interiormente por el Reglamento que él se dicte.
-
-### CAPITULO III
-
-**Artículo 96**. El Presidente presidirá las sesiones, firmará las resoluciones y comunicaciones del Consejo con el Ministro a que el asunto corresponda y con el Secretario del Consejo y con este último las de orden interno; y representará al Consejo.
-
-### CAPITULO IV
-
-**Artículo 97**. Corresponde al Consejo: todos los cometidos de administración que expresamente no se hayan reservado para el Presidente de la República o para otro Poder, tales como los relativos a instrucción pública, obras públicas, trabajo, industrias y hacienda, asistencia e higiene; dar cuenta instruida a la Asamblea de la recaudación de las rentas y de su inversión en el último año; preparar anualmente el Presupuesto General de Gastos; dictar las providencias necesarias para que las elecciones se realicen en el tiempo que señala esta Constitución, y para que se observe en ellas lo que disponga la ley electoral, sin que pueda por motivo alguno suspender elecciones ni variar sus épocas, sin que previamente lo resuelva así la Asamblea General.
-
-En lo que respecta a los asuntos de su dependencia, le corresponden también todas las facultades y deberes que tiene el Presidente de la República por lo incisos 5 al 12 del artículo 79 , y con las mismas limitaciones allí establecidas.
-
-**Artículo 98**. En los casos de iniciativa de leyes sobre creación o modificación de impuestos, contratación de empréstitos, circulación monetaria o fiduciaria, o que se relacionen con el comercio internacional y preparación del Presupuesto General de Gastos, debe requerir la opinión del Presidente de la República. Este contestará dentro del término máximo de diez días, considerándose la falta de contestación dentro de ese término, como expresión de conformidad. En el caso de que el Presidente expresara su disconformidad, el Consejo podrá llevar adelante su iniciativa siempre que ésta sea apoyada por los dos tercios de sus miembros.
-
-**Artículo 99**. El Consejo no permitirá a las personas de su dependencia goce de sueldo por otro título que el de servicio activo, jubilación, retiro o montepío, conforme a las leyes.
-
-**Artículo 100**. Los diversos servicios que constituyen el dominio industrial del Estado, la instrucción superior, secundaria y primaria, la asistencia y la higiene públicas serán administrados por Consejos autónomos. Salvo que sus leyes los declaren electivos, los miembros de estos Consejos serán designados por el Consejo Nacional. A éste incumbe también, destituir a los miembros de los Consejos especiales con venia de Senado, ser juez de las protestas que originen las elecciones de los miembros electivos, apreciar las rendiciones de cuentas, disponer las acciones competentes en caso de responsabilidad y entender en los recursos administrativos según las leyes.
-
-### CAPITULO V
-
-**Artículo 101**. Los Consejeros no podrán salir del territorio de la República por más de cuarenta y ocho horas, sin la autorización del Consejo, acordada por dos terceras partes de votos; tampoco podrán individualmente dar órdenes de ningún género.
-
-**Artículo 102**. Los Consejeros gozarán de las mismas inmunidades que los Representantes y Senadores. Sólo podrán ser acusados por la Cámara de Representantes ante el Senado y por los delitos señalados en el artículo 25 , o dentro de los seis meses siguientes al día de su cese, pasados los cuales ya nadie podrá acusarlos. Regirá a este respecto lo dispuesto en la parte final del artículo 81 .
-
-### CAPITULO VI
-
-**Artículo 103**. El Consejo Nacional de Administración puede autorizar a algunos de sus miembros a asistir a las sesiones de las Cámaras y tomar partes en sus deliberaciones, aún cuando no podrán votar.
-
-**Artículo 104**. El cargo de Consejero suplente es compatible con el de legislador. El Senador o Representante que aceptase integrar el Consejo Nacional, quedará suspendido en sus funciones legislativas, pudiendo la Cámara respectiva, mientras dure la suspensión, convocar al suplente.
+Durante igual término, la Asamblea General sólo podrá votar la desaprobación, con los efectos del artículo 140 , cuando sea pronunciada por dos tercios o más de total de sus componentes.
 
 ## SECCION IX
 
-De los Ministros de Estado
+Del Poder Ejecutivo
 
-### CAPITULO UNICO
+### CAPITULO I
 
-**Artículo 105**. Además de las Secretarías de Estado que establece el artículo 79 como dependientes del Presidente de la República, habrá las que la Ley determine como dependientes del Consejo Nacional. El Consejo para nombrar o separar sus ministros necesita la mayoría de sus votos.
+**Artículo 146**. El Poder Ejecutivo será ejercido por el Presidente de la República, quien actuará con un Consejo de Ministros, de acuerdo con lo establecido en esta Sección y las siguientes.
 
-**Artículo 106**. El Ministro o Ministros serán responsables de los decretos u órdenes que firmen.
+**Artículo 147**. Habrá un Vicepresidente que, en todos los casos de vacancia temporal o definitiva de la Presidencia, deberá desempeñarla, con las mismas facultades y atribuciones del Presidente. Si la vacancia es definitiva, la desempeñará hasta el término del mandato presidencial.
 
-**Artículo 107**. Para ser Ministro se necesita: 1º ciudadanía natural o legal con diez años de residencia; 2º treinta años cumplidos de edad.
+**Artículo 148**. El Vicepresidente de la República desempeñará la Presidencia del Senado y de la Asamblea General.
 
-**Artículo 108**. Abiertas las sesiones de las Cámaras, será obligación de los Ministros dar cuenta particular a cada una de ellas del estado de todo lo concerniente a sus respectivos departamentos.
+### CAPITULO II
 
-**Artículo 109**. Concluido su Ministerio, quedan sujetos a residencia por seis meses, y no podrán salir por ningún pretexto fuera del territorio de la República, salvo autorización del Poder legislativo para salir del país, concedida por mayoría absoluta de sufragios.
+**Artículo 149**. El Presidente y el Vicepresidente de la República serán elegidos conjunta y directamente por el pueblo, a mayoría simple de votantes, mediante el sistema del doble voto simultáneo y sin que en ningún caso pueda efectuarse la acumulación por sub-lemas. Regirán, además, las garantías que se establecen para el sufragio en la Sección III , considerándose a la República como una sola circunscripción electoral.
 
-**Artículo 110**. No salva a los Ministros de responsabilidad por los delitos especificados en el artículo 25 , la orden escrita o verbal del Presidente de la República o del Presidente del Consejo, ya dependan de uno o de otro.
+La elección se efectuará el último domingo del mes de marzo, y sólo podrán ser elegidos los ciudadanos naturales en ejercicio, que tengan treinta y cinco años cumplidos de edad.
 
-**Artículo 111**. El cargo de Ministro es compatible con el de legislador, pero el Senador o Diputado que acepte un Ministerio quedará suspendido en sus funciones legislativas, convocándose mientras dure la suspensión, al suplente respectivo.
+**Artículo 150**. El Presidente y el Vicepresidente durarán cuatro años en sus funciones, y para volver a desempeñarlas se requerirá que hayan transcurrido cuatro años desde la fecha de su cese. Esta disposición comprende al Presidente con respecto a la Vicepresidencia, y no al Vicepresidente con respecto a la Presidencia, salvo las excepciones de los incisos siguientes.
 
-**Artículo 112**. Los Ministros aún cuando no sean legisladores, podrán asistir a las sesiones de las Cámaras y tomar parte en sus deliberaciones, pero no tendrán voto.
+El Vicepresidente que hubiese desempeñado durante más de un año la Presidencia, por vacancia definitiva de este cargo, no podrá volver a ocupar éste ni aquél, sin que hubiese transcurrido el mismo plazo establecido en el inciso anterior.
 
-**Artículo 113**. Son atribuciones de los Ministros en sus respectivas reparticiones y de acuerdo con las leyes y las disposiciones del Presidente de la República o del Consejo, según los casos: 1º Hacer cumplir la Constitución, las leyes, decretos, resoluciones; 2º Preparar y someter a consideración superior los proyectos de ley, decretos y resoluciones que consideren convenientes; 3º Disponer el pago de las deudas reconocidas del Estado; 4º Conceder licencias a los empleados de sus dependencias; 5º Proponer el nombramiento o destitución de los empleados de sus reparticiones; 6º Vigilar la gestión administrativa, adoptar las medidas adecuadas para que se efectúe debidamente e imponer penas disciplinarias; 7º Firmar y comunicar las resoluciones del Presidente de la República o del Consejo Nacional.
+Tampoco podrá ser elegido Presidente el Vice que estuviera en ejercicio de la Presidencia en el término comprendido en los tres meses anteriores a la elección.
 
-**Artículo 114**. Las funciones de los Ministros serán reglamentadas por el Consejo Nacional o por el Presidente de la República, según de quien dependan.
+**Artículo 151**. Al iniciarse cada Legislatura, la Asamblea General, en reunión de ambas Cámaras y por tres quintos de votos, designará al ciudadano que en el caso eventual de acefalía de la Presidencia de la República, por vacancia temporal o definitiva del cargo, en razón de licencia, renuncia, cese o muerte del Presidente y Vicepresidente, deberá desempeñarla, con las mismas facultades y atribuciones que se establecen en el artículo 147 .
+
+En el caso de que la Asamblea General, al tiempo de producida la vacancia, no hubiera realizado aún la designación a que se refiere el inciso precedente, asumirá el cargo de Presidente de la República el Presidente de la Suprema Corte de Justicia, quien convocará a la Asamblea General, y, si ésta no hiciese la designación dentro del tercero día, convocará a elecciones de Presidente y Vicepresidente de la República dentro de los sesenta días siguientes. Esta convocatoria no tendrá lugar si el caso previsto se produjera dentro del último año del mandato presidencial, debiendo entonces el Presidente de la Suprema Corte de Justicia desempeñar la Presidencia de la República hasta el término del mandato.
+
+**Artículo 152**. La dotación del Presidente y la del Vicepresidente de la República serán fijadas por Ley previamente a cada elección, sin que puedan ser alteradas mientras duren en el desempeño del cargo.
+
+**Artículo 153**. La Asamblea General elegida simultáneamente con el Presidente y Vicepresidente de la República, en reunión de ambas Cámaras, será el Juez de la elección de éstos.
+
+Para anular total o parcialmente esta elección, se requerirá el voto conforme de los tres quintos del total de componentes de ambas Cámaras.
+
+En tal caso, deberá convocarse a nueva elección -total o parcial-, dentro de los sesenta días.
+
+Si no existiere proposición alguna de anulación de la elección, o si, presentada, no fuera aprobada, se considerarán proclamados electos los candidatos que hubiesen obtenido mayoría de sufragios en la elección realizada.
+
+**Artículo 154**. Si en el término comprendido entre la fecha de la elección y la de la toma de posesión de sus cargos, fallecieran o renunciaran los candidatos a Presidente y Vicepresidente de la República, que resultaren electos, se convocará a nueva elección y se procederá en la forma determinada en los artículos 153 y 155.
+
+Si sólo falleciera o renunciara el candidato a Presidente que resultare electo, lo sustituirá el Vicepresidente electo, por el período completo del mandato.
+
+Y si el que falleciera o renunciara fuese el candidato a Vicepresidente, o si por muerte o renuncia del Presidente aquél fuese llamado a ocupar la Presidencia, la Asamblea General, en reunión de ambas Cámaras, y por mayoría absoluta de sus componentes, designará Vicepresidente de la República, para todo el período, a un ciudadano que podrá no ser Legislador. Si lo fuera, quedará cesante como tal, convocándose a su respectivo suplente.
+
+**Artículo 155**. Si en la fecha indicada por la Constitución para la transmisión del mando presidencial, la Asamblea General no se hubiere expedido sobre la elección de Presidente y Vicepresidente, o ésta se declarare anulada total o parcialmente, y también en el caso previsto por el inciso primero del artículo 154, -el Presidente cesante delegará el mando en el Presidente de la Suprema Corte de Justicia, quien actuará hasta que se efectúe la transmisión-, quedando entre tanto suspendido en sus funciones judiciales.
+
+**Artículo 156**. El diez y nueve de junio siguiente a su elección, el Presidente y el Vicepresidente de la República tomarán posesión de sus cargos, haciendo previamente, en presencia de ambas Cámaras, reunidas en Asamblea General, la siguiente declaración: "Yo (N. N.) me comprometo por mi honor a desempeñar lealmente el cargo que se me ha confiado, y a guardar y defender la Constitución de la República".
+
+**Artículo 157**. El Presidente de la República tendrá la representación del Estado en el interior y en el exterior.
+
+### CAPITULO III
+
+**Artículo 158**. Al Presidente de la República, actuando con el Ministro o Ministros respectivos, o con el Consejo de Ministros, según lo dispuesto en el artículo 176 y concordantes, corresponde:
+
+1) La conservación del orden y la tranquilidad en lo interior, y la seguridad en lo exterior;
+
+2) El mando superior de todas las fuerzas armadas;
+
+3) Dar retiros, conceder licencias, y arreglar las pensiones de los empleados civiles y militares conforme a las Leyes;
+
+4) Publicar y circular, sin demora, todas las Leyes que, conforme a la Sección VII se hallen ya en estado de publicar y circular; ejecutarlas, hacerlas ejecutar, expidiendo los reglamentos especiales que sean necesarios para su ejecución;
+
+5) Informar al Poder Legislativo, al inaugurar las sesiones ordinarias, sobre el estado de la República y las mejoras y reformas que considere dignas de su atención;
+
+6) Poner objeciones o hacer observaciones a los proyectos de Ley que le remita el Poder Legislativo, y suspender u oponerse a su promulgación, en la forma prevista en la Sección VII ;
+
+7) Proponer a las Cámaras proyectos de Ley o modificaciones a las anteriormente dictadas;
+
+8) Convocar al Poder Legislativo a sesiones extraordinarias, con determinación de los asuntos materia de la convocatoria, y de acuerdo con lo que se establece en el artículo 95 ;
+
+9) Proveer los empleos civiles y militares, conforme a la Constitución y a las Leyes;
+
+10) Destituir los empleados por ineptitud, omisión o delito, en todos los casos con acuerdo del Senado o, en su receso, con el de la Comisión Permanente, y en el último, pasando el expediente a la justicia.
+
+Los funcionarios diplomáticos y consulares podrán, además, ser destituidos, previa venia del Senado, por la comisión de actos que afecten su buen nombre o el prestigio del país y de la representación que invisten.
+
+Si el Senado o la Comisión Permanente no dictaran resolución definitiva dentro de los noventa días, el Poder Ejecutivo prescindirá de la venia solicitada a los efectos de la destitución;
+
+11) Conceder los ascensos militares conforme a las Leyes, necesitando, para los de Coronel y demás Oficiales superiores, la venia del Senado o, en su receso, de la Comisión Permanente;
+
+12) Nombrar el personal consular y diplomático, con obligación de solicitar el acuerdo del Senado, o de la Comisión Permanente hallándose aquél en receso, para los Jefes de Misión;
+
+13) Nombrar y separar los Jefes de Policía;
+
+14) Designar al Fiscal de Corte y a los demás Fiscales Letrados de la República, con venia del Senado, o de la Comisión Permanente en caso de disolución del Parlamento, otorgada siempre por tres quintos de votos del total de componentes.
+
+La venia no será necesaria para designar a los Fiscales de Gobierno y de Hacienda;
+
+15) Destituir por sí los empleados militares y policiales y los demás que la Ley declare amovibles, necesitándose, para esta declaración, la mayoría absoluta del total de componentes de cada Cámara;
+
+16) Recibir Agentes diplomáticos y autorizar el ejercicio de sus funciones a los Cónsules extranjeros;
+
+17) Decretar la ruptura de relaciones y, previa resolución de la Asamblea General, declarar la guerra, si para evitarla, no diesen resultado el arbitraje u otros medios pacíficos;
+
+18) Tomar medidas prontas de seguridad en los casos graves e imprevistos de ataque exterior o conmoción interior, dando cuenta dentro de las veinte y cuatro horas a la Asamblea General, o en su receso a la Comisión Permanente, de lo ejecutado y sus motivos, estando a lo que éstas últimas resuelvan.
+
+En cuanto a las personas, las medidas prontas de seguridad sólo autorizan a arrestarlas o trasladarlas de un punto a otro del territorio, siempre que no optasen por salir de él. También esta medida, como las otras, deberá someterse dentro de las veinte y cuatro horas de adoptada, a la Asamblea General, o en su caso, a la Comisión Permanente, estando a su resolución;
+
+19) Recaudar las rentas que conforme a las Leyes deban serlo por sus dependencias, y darles el destino que según aquéllas corresponda;
+
+20) Preparar y presentar anualmente a la Asamblea el Presupuesto General de Gastos del año entrante, de acuerdo con lo establecido en la Sección respectiva, y dar cuenta instruida de la inversión hecha en el anterior;
+
+21) Concluir y suscribir tratados, necesitando para ratificarlos la aprobación del Poder Legislativo;
+
+22) Conceder privilegios industriales conforme a las Leyes;
+
+23) Autorizar o denegar la creación de cualesquiera Bancos que hubieren de establecerse;
+
+24) Prestar, a requerimiento del Poder Judicial, el concurso de la fuerza pública.
+
+### CAPITULO IV
+
+**Artículo 159**. El Presidente de la República no podrá salir del territorio de la misma por más de cuarenta y ocho horas sin autorización de ambas Cámaras, reunidas en Asamblea General.
+
+**Artículo 160**. No podrá permitir goce de sueldo por otro título que el de servicio activo, jubilación, retiro o montepío, conforme a las Leyes; ni expedir órdenes sin la firma del Ministro respectivo, sin cuyo requisito nadie estará obligado a obedecerlas.
+
+**Artículo 161**. El Presidente de la República no podrá ser acusado sino en la forma que señala el artículo 84 , y aún así, sólo durante el ejercicio del cargo o dentro de los seis meses siguientes a la expiración del mismo, durante los cuales estará sometido a residencia, salvo autorización de ambas Cámaras, reunidas en Asamblea General, para salir del país, concedida por mayoría absoluta de sufragios.
+
+Cuando la acusación haya reunido los dos tercios de votos de la Cámara de Representantes, el Presidente quedará suspendido en el ejercicio de sus funciones.
 
 ## SECCION X
 
-Del Poder Judicial, sus diferentes Tribunales y Juzgados y de la Administración de Justicia
+De los Ministros de Estado
 
 ### CAPITULO I
 
-**Artículo 115**. El Poder Judicial se ejercerá por una Alta Corte de Justicia, Tribunal o Tribunales de Apelaciones y Juzgados de instancia, en la forma que estableciere la Ley.
+**Artículo 162**. Habrá nueve Ministerios que tendrán, cada uno, su denominación propia, y las atribuciones y competencia en razón de materia que les señalare la ley dictada por mayoría absoluta del total de miembros de cada una de las Cámaras.
+
+La ley también podrá modificar su número, requiriéndose, en cada caso, el voto conforme de los dos tercios del total de componentes de cada Cámara.
+
+**Artículo 163**. El Presidente de la República adjudicará y distribuirá los Ministerios entre ciudadanos que, por contar con el apoyo de su grupo parlamentario, aseguren su permanencia en el cargo y con sujeción a la siguiente proporción:
+
+A) Cinco o seis, en nueve, a la mayoría que haya triunfado en las elecciones de Presidente de la República;
+
+B) Tres al partido que en dicha elección le siga en número de sufragios.
+
+En caso de disolución del Parlamento, las renovaciones ulteriores del Ministerio que se produjeren, se ajustarán a idéntica proporcionalidad, referida a los dos lemas más votados en la elección de las nuevas Cámaras.
+
+Si alguno de los partidos de los dos lemas más votados negase su concurso a la formación del Gabinete, las carteras que le correspondieran podrán ser provistas prescindiéndose del lema de ese partido.
+
+**Artículo 164**. Cuando en la designación del primer Consejo de Ministros de cada periodo gubernamental, la suma de los votos de los Legisladores correspondientes a los dos lemas más votados en la elección de Presidente de la República, no alcance a cubrir la mayoría absoluta del total de los miembros de la Asamblea General, el Presidente de la República podrá prescindir, en la adjudicación de las carteras ministeriales, de la proporcionalidad establecida en el artículo anterior, debiendo, en ese caso, distribuirlas entre candidatos que por contar con la mayoría parlamentaria aseguren su permanencia en el cargo.
+
+**Artículo 165**. El Ministro o Ministros serán responsables de los decretos u órdenes que firmen o expidan con el Presidente, salvo el caso de resolución expresa del Consejo de Ministros, en el que la responsabilidad será de los que acuerden la decisión, haciéndose efectiva de conformidad con los artículos 84 y 93 .
+
+**Artículo 166**. Para ser Ministro se necesitan las mismas calidades que para ser Representante.
+
+**Artículo 167**. Al iniciarse cada periodo legislativo, los Ministros darán cuenta sucinta a la Asamblea General, del estado de todo lo concerniente a sus respectivos departamentos.
+
+**Artículo 168**. Concluida su función, los Ministros quedan sujetos a residencia por seis meses, y no podrán salir del territorio de la República, salvo autorización concedida por mayoría absoluta de sufragios de ambas Cámaras, reunidas en Asamblea General.
+
+**Artículo 169**. Los Ministros no quedarán exentos de responsabilidad por causa de delito aunque invoquen la orden escrita o verbal del Presidente de la República o del Consejo de Ministros.
+
+**Artículo 170**. No es indispensable la calidad de Legislador para ser Ministro o Subsecretario de Estado.
+
+**Artículo 171**. Los Ministros, aun cuando no sean Legisladores, podrán asistir a las sesiones de las Cámaras y de sus Comisiones Permanentes o Especiales, y tomar parte en sus deliberaciones, pero no tendrán voto.
+
+Igual derecho tendrán los Subsecretarios de Estado en lo que se refiere a su concurrencia a las Comisiones, cuando así lo dispongan los Ministros respectivos, y también, por resolución de los mismos, el de concurrir, conjuntamente, a las sesiones de las Cámaras.
+
+En ambos casos, los Subsecretarios de Estado actuarán bajo la responsabilidad de los Ministros.
+
+**Artículo 172**. Son atribuciones de los Ministros, en sus respectivas carteras y de acuerdo con las leyes y las disposiciones del Poder Ejecutivo:
+
+1) Hacer cumplir la Constitución, las leyes, decretos y resoluciones;
+
+2) Preparar y someter a consideración superior los proyectos de ley, decretos y resoluciones que estimen convenientes;
+
+3) Disponer, en los límites de su competencia, el pago de las deudas reconocidas del Estado;
+
+4) Conceder licencias a los empleados de sus dependencias;
+
+5) Proponer el nombramiento o destitución de los empleados de sus reparticiones;
+
+6) Vigilar la gestión administrativa, y adoptar las medidas adecuadas para que se efectúe debidamente, e imponer penas disciplinarias;
+
+7) Firmar y comunicar las resoluciones del Poder Ejecutivo.
+
+**Artículo 173**. Las funciones de los Ministros y Subsecretarios serán reglamentadas por el Poder Ejecutivo.
 
 ### CAPITULO II
 
-**Artículo 116**. La Alta Corte de Justicia se compondrá del número de miembros que la Ley designe.
+**Artículo 174**. Cada Ministerio tendrá un Subsecretario que ingresará con el Ministro, a su propuesta, y cesará con él, salvo nueva designación.
 
-**Artículo 117**. Para ser miembro de la Alta Corte de Justicia se necesita haber ejercido por diez años la profesión de abogado o por ocho la de Magistrado, y en ambos casos tener cuarenta años cumplidos de edad y las demás calidades precisas para ser Senador que establece el artículo 29 .
-
-**Artículo 118**. Su nombramiento se hará por la Asamblea General y recibirán del Erario Público el sueldo que señale la Ley.
-
-**Artículo 119**. A la Alta Corte de Justicia corresponde juzgar a todos los infractores de la Constitución, sin excepción alguna; sobre delitos contra el Derecho de Gentes y causas del Almirantazgo, en las cuestiones de Tratados o negociaciones con Potencias extranjeras; conocer en las causas de Embajadores, Ministros Plenipotenciarios y demás agentes diplomáticos de los gobierno extranjeros.
-
-**Artículo 120**. También conocerá en último grado de los juicios que en los casos y forma que designe la Ley se eleven de los Tribunales de Apelaciones.
-
-**Artículo 121**. Ejercerá la superintendencia directiva, correccional, consultiva y económica sobre todos los Tribunales y Juzgados de la Nación.
-
-**Artículo 122**. Nombrará con aprobación del Senado, o en su receso con el de la Comisión Permanente, los ciudadanos que han de componer el Tribunal o Tribunales de Apelaciones.
-
-**Artículo 123**. La ley designará las instancias que haya de haber en los juicios de la Alta Corte de Justicia; estos serán públicos y las sentencias definitivas motivadas por la enunciación expresa de la ley aplicada.
-
-### CAPITULO III
-
-**Artículo 124**. Para la más pronta y fácil administración de Justicia se establecerá en el territorio de la República uno o más Tribunales de Apelaciones, con el número de Ministros que la ley señalará, debiendo éstos ser ciudadanos naturales o legales, y haber ejercido por ocho años la profesión de abogado o por seis años la de magistrado.
-
-**Artículo 125**. Su nombramiento se hará como establece el artículo 122 ; durarán en sus empleos todo el tiempo de su buena comportación, y recibirán del Erario Nacional el sueldo que se le señale.
-
-**Artículo 126**. Sus atribuciones las declarará la Ley.
-
-### CAPITULO IV
-
-**Artículo 127**. En los Departamentos habrá Jueces Letrados para el conocimiento y determinación de la primera instancia en lo civil y criminal, en la forma que establecerá la Ley.
-
-**Artículo 128**. Para ser Juez de primera instancia, se necesita ser ciudadano natural o legal y haber ejercido dos años la abogacía; la Ley señalará el sueldo de que ha de gozar.
-
-### CAPITULO V
-
-**Artículo 129**. Se establecerán igualmente Jueces de Paz para que procuren conciliar los pleitos que se pretendan iniciar, sin que pueda entablarse ninguno en materia civil y de injurias, sin constancia de haber comparecido las partes a la conciliación.
+**Artículo 175**. En caso de licencia de los Ministros, los Subsecretarios atenderán el despacho de los asuntos de las carteras respectivas con el Presidente de la República, refrendarán los decretos y podrán concurrir a las deliberaciones del Consejo de Ministros.
 
 ## SECCION XI
 
-Del gobierno y administración local
+Del Consejo de Ministros
 
-### CAPITULO I
+### CAPITULO UNICO
 
-**Artículo 130**. El gobierno y administración locales serán ejercidos por una Asamblea Representativa y por uno o más Concejos de Administración autónomos, elegidos popularmente con las garantías que para el sufragio establece la Sección II, y cuyo número será fijado por la Ley.
+**Artículo 176**. El Consejo de Ministros se integrará con los titulares de las respectivas carteras o quienes hagan sus veces, y tendrá competencia privativa en todos los actos de gobierno y administración que planteen en su seno el Presidente de la República o cualquiera de sus Ministros.
 
-**Artículo 131**. El Concejo de Administración estará formado por no menos de tres miembros ni por más de siete.
+Actuará bajo la Presidencia del Presidente de la República, quien tendrá voz en las deliberaciones y voto en las resoluciones, que será decisivo para los casos de empate, aun cuando éste se hubiere producido por efecto de su propio voto.
 
-**Artículo 132**. La Ley ordinaria fijará la duración de las Asambleas Representativas, el número de sus miembros, forma y fecha de su elección, condiciones para ser electo, atribuciones de las Asambleas, recursos contra sus resoluciones y la representación de los partidos en los Concejos de Administración.
+**Artículo 177**. El Consejo celebrará sesión con la concurrencia de la mayoría de sus miembros, y se estará siempre a lo que se resuelva por mayoría absoluta de votos de miembros presentes.
 
-La Ley podrá también acordar a los extranjeros el derecho de voto activo y pasivo.
+En cualquier momento y por igual mayoría, se podrá poner término a una deliberación. La moción que se haga con ese fin no será discutida.
 
-**Artículo 133**. La Ley reconocerá a las Asambleas Representativas la facultad de crear impuestos, con la sola limitación de no poder gravar el tránsito, ni crear impuestos interdepartamentales a los artículos de producción nacional.
+**Artículo 178**. Todas las resoluciones del Consejo podrán ser revocadas por el voto de la mayoría absoluta de sus componentes.
 
-**Artículo 134**. Las decisiones de las Asambleas Representativas creando o modificando impuestos, podrán ser apeladas ante el Poder Legislativo por un tercio de los miembros de la Asamblea Representativa, por la mayoría del Concejo de Administración, por el Consejo Nacional o por trescientos ciudadanos inscriptos. En los tres primeros casos, la apelación tendrá efecto suspensivo.
+Las resoluciones que originariamente hubieran sido acordadas por el Presidente de la República con el Ministro o Ministros respectivos, podrán ser revocadas por el Consejo por mayoría absoluta de presentes.
 
-**Artículo 135**. Los cargos de las Asambleas Representativas serán honorarios.
+**Artículo 179**. En los casos de conflicto entre el Presidente de la República y un Ministro, se someterá la cuestión al Consejo de Ministros, y si éste no quisiera o no pudiera resolverla, poniendo de acuerdo a uno y otro, renunciará el Ministro.
 
-**Artículo 136**. Los Concejos tendrán los deberes y atribuciones que les acuerden las Leyes, las que establecerán los recursos contra sus resoluciones.
+En todos los casos de vacancias ministeriales, ellas se llenarán conforme a lo dispuesto por el artículo 163 y concordantes.
 
-**Artículo 137**. Las autoridades locales nombrarán sus empleados y sancionarán anualmente sus presupuestos dentro de los recursos de que dispongan.
+En caso de estar el Parlamento disuelto, el Presidente llenará las vacantes ministeriales de acuerdo con la composición de la Comisión Permanente, manteniendo la proporcionalidad establecida en el artículo 163 y concordantes.
 
-**Artículo 138**. Los Concejos destituirán a los empleados municipales por ineptitud, omisión o delito; en los dos primeros casos con acuerdo de la Asamblea Representativa, pudiendo suspenderlos de inmediato; y en el último, pasando después el expediente a la justicia para que aquéllos sean juzgados legalmente.
-
-**Artículo 139**. Los miembros de los Concejos durarán tres años en sus funciones.
-
-**Artículo 140**. El número de Concejales, así como su remuneración serán fijados por las Asambleas Representativas.
-
-**Artículo 141**. El veinticinco por ciento de los inscriptos en la localidad tienen la facultad de tomar iniciativas sobre asuntos de interés local. El Concejo de Administración deberá considerarlas dentro de los sesenta días de presentadas.
-
-**Artículo 142**. La policía prestará su apoyo al Concejo, siempre que éste lo requiera para el cumplimiento de su gestión.
-
-### CAPITULO II
-
-**Artículo 143**. En cada Departamento habrá un Jefe de Policía, nombrado en la forma establecida en el artículo 79 , inciso 15.
-
-**Artículo 144**. Para ser Jefe de Policía se necesita: treinta años de edad, ciudadanía en ejercicio, ser hijo del Departamento o vecino con residencia no interrumpida de dos años.
-
-**Artículo 145**. Las policías dependerán directamente del Presidente de la República, y sus presupuestos formarán parte del Presupuesto General de Gastos.
+**Artículo 180**. El Consejo de Ministros dictará su reglamento interno.
 
 ## SECCION XII
 
-Derechos y garantías
+De los Entes Autónomos o Servicios Descentralizados
 
 ### CAPITULO UNICO
 
-**Artículo 146**. Los habitantes de la República tienen derecho a ser protegidos en el goce de su vida, honor, libertad, seguridad y propiedad.
+**Artículo 181**. Los diversos servicios que constituyen el dominio industrial y comercial del Estado, y la Instrucción Superior, Secundaria y Primaria y Normal, serán administrados por Consejos o Directorios Autónomos.
 
-Nadie puede ser privado de estos derechos sino conforme a las Leyes.
+**Artículo 182**. Los servicios que a continuación se expresan: Correos y Telégrafos, Ferrocarriles, Administraciones de Aduanas y Puertos, y la Salud Pública, no podrán ser descentralizados en forma de Entes Autónomos, aunque la Ley podrá concederles el grado de autonomía que sea compatible con el contralor del Poder Ejecutivo.
 
-**Artículo 147**. En el territorio de la República nadie nacerá esclavo; queda prohibido para siempre su tráfico e introducción en el país.
+**Artículo 183**. Los Consejos o Directorios, cuando fueren rentados, se compondrán de no menos de tres ni de más de cinco miembros, según lo establezca la Ley en cada caso, y serán designados por el Poder Ejecutivo, en acuerdo del Consejo de Ministros, previa venia del Senado otorgada sobre propuesta motivada y por tres quintos de votos del total de sus componentes.
 
-**Artículo 148**. Los hombres son iguales ante la Ley, sea preceptiva, penal o tuitiva, no reconociéndose otra distinción entre ellos sino la de los talentos o las virtudes.
+Si la venia no fuese otorgada, el Poder Ejecutivo podrá formular propuesta nueva, o reiterar su propuesta anterior, y en este último caso, bastará el voto conforme de la mayoría absoluta de los electos Senadores.
 
-**Artículo 149**. Se prohíbe la fundación de mayorazgos y toda clase de vinculaciones, y ninguna autoridad de la República podrá conceder título alguno de nobleza, ni honores o distinciones hereditarias.
+En todos los casos, los candidatos propuestos por el Poder Ejecutivo deberán contar con el voto conforme de la mayoría absoluta de los Ministros correspondientes a cada uno de los dos partidos con mayor representación en el Consejo de Ministros.
 
-**Artículo 150**. Las acciones privadas de los hombres, que de ningún modo atacan el orden público ni perjudican a un tercero, están exentas de la autoridad de los Magistrados. Ningún habitante de la República será obligado a hacer lo que no manda la ley, ni privado de lo que ella no prohíbe.
+La Ley, por tres quintos de votos del total de componentes de cada Cámara, podrá declararlos de carácter electivo, determinando, para cada Consejo o Directorio, las personas o los cuerpos interesados en el servicio que han de efectuar esa elección.
 
-**Artículo 151**. El hogar es un sagrado inviolable. De noche nadie podrá entrar en él sin consentimiento de su jefe; y de día, sólo de orden expresa del Juez competente, por escrito y en los casos determinados por la Ley.
+**Artículo 184**. Para que la Ley pueda admitir capitales privados en la constitución o ampliación del patrimonio de los Entes Autónomos o Servicios Descentralizados, así como para reglamentar la intervención que en tales casos pueda corresponderle a los respectivos accionistas en los Consejos o Directorios, se requerirán los tres quintos de votos del total de componentes de cada Cámara.
 
-**Artículo 152**. Ninguno puede ser penado ni confinado sin forma de proceso y sentencia legal.
+El aporte de los capitales particulares y la representación de los mismos en los Consejos o Directorios, nunca serán superiores a los del Estado.
 
-**Artículo 153**. Queda subsistente el juicio por jurados en las causas criminales.
+**Artículo 185**. Para crear nuevos Entes Autónomos o para suprimir los existentes, se requerirán los dos tercios de votos del total de componentes de cada Cámara.
 
-**Artículo 154**. Ningún ciudadano puede ser preso sino infraganti delito, o habiendo semiplena prueba de él, y por orden escrita de Juez competente.
+**Artículo 186**. Los Entes Autónomos o Servicios descentralizados no podrán realizar negocios extraños al giro que preceptivamente les asignen las Leyes, ni disponer de sus recursos para fines ajenos a sus actividades normales.
 
-**Artículo 155**. En cualquiera de los casos del artículo anterior, el Juez, bajo la más seria responsabilidad, tomará al arrestado su declaración dentro de veinticuatro horas, y dentro de cuarenta y ocho, lo más, empezará el sumario, examinando a los testigos a presencia del acusado y de su defensor, quien asistirá igualmente a la declaración y confesión de su patrocinato.
+La Ley determinará las condiciones y circunstancias en que podrán adquirir bienes inmuebles, para lo cual será siempre necesario el voto conforme de cuatro miembros de los Consejos o Directorios respectivos, cuando se integren con cinco, y la unanimidad cuando se integren con tres miembros.
 
-**Artículo 156**. En caso de prisión indebida, la persona aprehendida o cualquier ciudadano podrá interponer ante el Juez competente el recurso de "habeas corpus" a fin de que la autoridad aprehensora explique y justifique de inmediato el motivo legal de la aprehensión, estándose a lo que decida el juez indicado.
+**Artículo 187**. Todas las administraciones autónomas publicarán, periódicamente, estados que reflejen claramente su vida financiera. La Ley fijará la norma y número anual de los mismos, y todos ellos deberán llevar la visación del Tribunal de Cuentas.
 
-**Artículo 157**. Las Leyes fijarán el orden y las formalidades del proceso en lo civil y criminal.
+**Artículo 188**. Los miembros de los Consejos o Directorios durarán cuatro años en su mandato. Sin embargo, continuarán en el ejercicio de sus funciones hasta tanto fueren designados los que hayan de reemplazarlos.
 
-**Artículo 158**. Quedan prohibidos los juicios por comisión.
+Podrán ser reelectos siempre que su gestión haya merecido dictamen favorable del Tribunal de Cuentas.
 
-**Artículo 159**. Quedan abolidos los juramentos de los acusados en sus declaraciones o confesiones, sobre hecho propio; y prohibido el que sean tratados en ellas como reos.
+**Artículo 189**. Los Consejos o Directorios cesantes deberán rendir cuenta de su gestión al Poder Ejecutivo, previo dictamen del Tribunal de Cuentas, sin perjuicio de las responsabilidades a que hubiere lugar, de acuerdo con lo dispuesto en la Sección XIII .
 
-**Artículo 160**. Queda igualmente vedado el juicio criminal en rebeldía. La ley proveerá lo conveniente a este respecto.
+**Artículo 190**. Cuando el Poder Ejecutivo considere inconveniente o ilegal la gestión de los Consejos o Directorios, podrá hacerles las observaciones que crea pertinentes. En caso de ser desatendidas, el Poder Ejecutivo deberá ponerlas en conocimiento del Senado, y también podrá proponer los correctivos o solicitar las destituciones que crea del caso. El Senado decidirá por tres quintos de votos del total de sus componentes.
 
-**Artículo 161**. Todo juicio criminal empezará por acusación de parte o del acusador público, quedando abolidas las pesquisas secretas.
+**Artículo 191**. Lo dispuesto en el artículo precedente es sin perjuicio de la facultad del Poder Ejecutivo de gestionar la remoción de los Consejeros o Directores, en caso de ineptitud, omisión o delito en el ejercicio del cargo; o de comisión de actos que afecten su buen nombre o el prestigio de la Institución a que pertenecen.
 
-**Artículo 162**. Todos los jueces son responsables ante la Ley de la más pequeña agresión contra los derechos de los ciudadanos, así como por separarse del orden de proceder que ella establezca.
+La remoción deberá ser pronunciada por tres quintos de votos del total de componentes del Senado.
 
-**Artículo 163**. A nadie se le aplicará la pena de muerte.
+**Artículo 192**. Para modificar la Carta Orgánica de los Bancos del Estado se requerirá la mayoría absoluta de los componentes de cada Cámara.
 
-En ningún caso se permitirá que las cárceles sirvan para mortificar y sí sólo para asegurar a los procesados y penados.
+**Artículo 193**. Los miembros de los Consejos o Directorios de los Entes Autónomos o Servicios descentralizados no podrán ser nombrados para cargos, ni aun honorarios, que directa o indirectamente dependan del Instituto de que forman parte.
 
-**Artículo 164**. En cualquier estado de una causa criminal de que no haya de resultar pena de penitenciaría, los Jueces podrán poner al acusado en libertad, dando fianza según la Ley.
+Esta inhibición durará hasta un año después de haber terminado las funciones que la causen, cualquiera sea el motivo del cese, y se extiende a todo otro cometido, profesional o no, aunque no tenga carácter permanente ni remuneración fija.
 
-**Artículo 165**. Los papeles de los particulares, lo mismo que sus correspondencias epistolares, son inviolables, y nunca podrá hacerse su registro, examen o interceptación, fuera de aquellos casos en que la ley expresamente lo prescriba.
+Tampoco podrán los miembros de los Consejos o Directorios de los Entes Autónomos ejercer simultáneamente profesiones o actividades que, directa o indirectamente, se relacionen con la Institución a que pertenecen.
 
-**Artículo 166**. Es enteramente libre la comunicación de los pensamientos por palabras, escritos privados o publicados por la prensa en toda materia, sin necesidad de previa censura; quedando responsable el autor y en su caso el impresor, con arreglo a la Ley, por los abusos que cometieren.
-
-**Artículo 167**. Todo habitante tiene el derecho de petición para ante todas y cualesquiera autoridades de la República.
-
-**Artículo 168**. La seguridad individual no podrá suspenderse sino con anuencia de la Asamblea General, o de la Comisión Permanente, estando aquélla en receso, y en el caso extraordinario de traición o conspiración contra la Patria; y entonces, sólo será para la aprehensión de los delincuentes.
-
-**Artículo 169**. El derecho de propiedad es sagrado e inviolable. A nadie podrá privarse de él sino conforme a la Ley, en los casos de necesidad o utilidad pública, recibiendo del Tesoro Nacional una justa compensación.
-
-**Artículo 170**. Nadie será obligado a prestar auxilios, sean de la clase que fueren, para los ejércitos, ni a franquear su casa para alojamiento de militares, sino de orden del magistrado civil según la Ley, y recibirá de la República la indemnización del perjuicio que en tales casos se le infiera.
-
-**Artículo 171**. Toda persona puede dedicarse al trabajo, cultivo, industria o comercio que le acomode, como no se oponga al bien público o al de los habitantes de la República.
-
-**Artículo 172**. Es libre la entrada de toda persona en el territorio de la República, su permanencia en él y su salida con sus propiedades, observando las leyes de policía, y salvo perjuicio de tercero.
-
-**Artículo 173**. La enumeración de derechos y garantías hecha por la Constitución, no excluye los otros que son inherentes a la personalidad humana o se derivan de la forma republicana de gobierno.
+Las disposiciones de los dos incisos anteriores no alcanzan a las funciones docentes.
 
 ## SECCION XIII
 
-De la observancia de las leyes antiguas, cumplimiento, interpretación y reforma de la presente Constitución
-
-### CAPITULO I
-
-**Artículo 174**. Se declaran en su fuerza y vigor las Leyes que hasta aquí han regido en todas las materias y puntos que directa o indirectamente no se opongan a esta Constitución ni a las Leyes que expida el Cuerpo Legislativo.
-
-### CAPITULO II
-
-**Artículo 175**. El que atentare o prestare medios para atentar contra la presente Constitución después de sancionada y publicada, será reputado, juzgado y castigado como reo de lesa nación.
-
-### CAPITULO III
-
-**Artículo 176**. Corresponde exclusivamente al Poder Legislativo interpretar o explicar la presente Constitución, como también reformarla en todo o en parte, previas las formalidades que establecen los artículos siguientes.
-
-### CAPITULO IV
-
-**Artículo 177**. La revisión, total o parcial, de la presente Constitución podrá ser iniciada por cualquiera de las Cámaras, formulándose de inmediato las enmiendas, las que necesitarán para su aprobación, el voto conforme de los dos tercios del total de los miembros de que se componga cada Cámara, sujetándose en lo demás a las reglas establecidas para la sanción de las Leyes.
-
-**Artículo 178**. Aprobadas las enmiendas en la forma que determina el artículo anterior, y publicada por el Consejo Nacional de Administración en el decreto de convocatoria a elecciones, quedarán ellas sujetas a ratificación de la siguiente Legislatura.
-
-Si esta segunda Legislatura aceptase las enmiendas por el voto conforme de los dos tercios del total de los miembros de que se componga cada Cámara, en los mismos términos en que hayan sido propuestas y sin hacer alteración alguna en ellas, se tendrán por ratificadas.
-
-Cuando la Legislatura que tomó la iniciativa haya proyectado las reformas como reformas separadas, la segunda Legislatura podrá aprobar unas y no otras. Si la Legislatura llamada a ratificar las reformas dejare transcurrir su período sin hacerlo, las reformas se tendrán por no propuestas.
-
-## DISPOSICIONES TRANSITORIAS
+De la Hacienda Pública
 
 ### CAPITULO UNICO
 
-A) La presente Constitución entrará en vigencia el 1º de Marzo de 1919.
+**Artículo 194**. Todos los ingresos y erogaciones ordinarios del Estado serán previstos y fijados, para cada año económico, en un Presupuesto único, durante cuyo ejercicio sólo podrá ser modificado por una ley especial a iniciativa del Poder Ejecutivo, y con el exclusivo objeto de variar el destino de partidas autorizadas o de abrir nuevos créditos suplementarios.
 
-B) Las garantías para el sufragio establecidas en la Sección II, regirán para todas las elecciones que se efectúen después del 1º de marzo de 1919.
+Podrán ser de iniciativa del Poder Legislativo todos los gastos no previstos en el inciso anterior, con sujeción a lo establecido en la Sección V .
 
-C) Para las elecciones a que se refiere el artículo anterior, regirán las disposiciones de la Ley de 1º de Setiembre de 1915 y complementarias dictadas hasta el 30 de Julio de 1916, así como las vigentes en la actualidad sobre número de Diputados por Departamento, en tanto no se reformen esas Leyes por dos tercios de votos del total de miembros de cada Cámara. No son aplicables a la distribución de Diputados u otros cargos electivos, las disposiciones de la Ley de 1º de Setiembre de 1915 que atribuyen a la mayoría los tres quintos. La repartición se hará por cociente electoral.
+**Artículo 195**. El Poder Judicial, el Tribunal de lo Contencioso-Administrativo, la Corte Electoral, los Servicios descentralizados y los Entes Autónomos, con excepción de los comprendidos en el artículo 196, proyectarán sus respectivos presupuestos y los presentarán al Poder Ejecutivo, incorporándolos éste al proyecto de Presupuesto General. El Poder Ejecutivo podrá modificar los proyectos originarios y someterá éstos y las modificaciones al Poder Legislativo.
 
-D) El Presidente de la República que deberá actuar en el período 1919-1923 será elegido en sesión permanente por la Asamblea General, el 1º de Marzo de 1919, por votación nominal a pluralidad absoluta de sufragios expresados en balotas firmadas, que leerá públicamente el Secretario, rigiendo en cuanto a las condiciones para ser elegido, las disposiciones de la presente Constitución.
+**Artículo 196**. Los Presupuestos de los Entes industriales o comerciales del Estado serán proyectados por cada uno de éstos y sometidos a la aprobación del Poder Ejecutivo, previo dictamen del Tribunal de Cuentas. El Poder Ejecutivo podrá observar los presupuestos y, en este caso, así como en el de que mediasen observaciones del Tribunal de Cuentas, los devolverá al Ente respectivo.
 
-E) El Consejo Nacional de Administración y los suplentes respectivos correspondientes al período 1919-1925 serán elegidos el 1º de Marzo de mil novecientos diez y nueve por la Asamblea General, por lista incompleta y por mayoría de sus miembros y con las formalidades que establece el artículo anterior para la elección de Presidente de la República, rigiendo en cuanto a las condiciones para ser electo, las disposiciones de la presente Constitución.
+Si el Ente aceptase las observaciones del Poder Ejecutivo y el dictamen del Tribunal de Cuentas, devolverá los antecedentes al Poder Ejecutivo para la aprobación del Presupuesto.
 
-Las autoridades directivas del Partido a que corresponda la minoría del Consejo podrán vetar la elección de dos candidatos titulares y dos suplentes, proclamados por los legisladores de la mayoría, y el mismo derecho tendrán las autoridades directivas del partido de la mayoría, con respecto a un candidato titular y otro suplente, proclamados por los legisladores de la minoría.
+No mediando la conformidad establecida en el inciso anterior, los proyectos de Presupuesto se remitirán al Poder Legislativo, con agregación de los antecedentes, para resolver en cuanto a las discrepancias y a las partidas globales, con sujeción a lo dispuesto en el artículo 187 .
 
-F) Los Consejeros y suplentes del primer Consejo Nacional se renovarán en la siguiente forma:
+El dictamen del Tribunal de Cuentas requiere el voto afirmativo de cuatro de sus miembros, por lo menos, y se comunicará al Ente respectivo dentro del pIazo perentorio que establecerá la ley.
 
-Los tres primeros miembros de la lista durarán seis años, cuatro los tres siguientes y dos los últimos, correspondiendo a la minoría los puestos tercero, sexto y noveno de la lista.
+Los presupuestos aprobados se incorporarán al Presupuesto General de Gastos, con fines informativos.
 
-G) La Presidencia del primer Consejo Nacional será desempeñada los dos primeros años, por el ciudadano que figure en primer término en la lista de la mayoría.
+La ley fijará, previo informe de los referidos Entes y del Tribunal de Cuentas y al parecer del Poder Ejecutivo, los porcentajes que cada Ente podrá destinar a sueldos y gastos de dirección y administración.
 
-H) La renovación parcial del Consejo Nacional que se efectuará al vencimiento del primer bienio, se practicará por voto público y demás condiciones que establece la Sección II.
+**Artículo 197**. Podrá establecerse por ley una Sección Especial en el Presupuesto General que comprenda los gastos ordinarios permanentes de la Administración, cuya revisión anual no sea indispensable.
 
-I) Las autoridades locales que organiza esta Constitución serán elegidas el último domingo de Noviembre de 1919, y entrarán al ejercicio de sus cargos el 1º de Enero siguiente.
+No se incluirán en la ley de Presupuesto General disposiciones cuya vigencia exceda la del ejercicio económico o que no se refieran exclusivamente a su interpretación y ejecución.
 
-J) Los actuales empleados municipales que sean inamovibles se conservarán en sus empleos en tanto que estos subsistan o se creen otros análogos, y no podrán ser destituidos sino en los casos previstos en el artículo 138 .
+**Artículo 198**. La forma a que deberá ajustarse el Presupuesto General y las fechas para su presentación y aprobación, serán fijadas por la ley de Contabilidad, la que determinará, también, los efectos a que dará lugar el incumplimiento de sus disposiciones.
+
+**Artículo 199**. Los proyectos de presupuesto de todos los organismos del Estado, Municipios, Servicios descentralizados y entes autónomos cualquiera sea su naturaleza, serán elevados al Poder Ejecutivo y cuando corresponda, en su caso, al Parlamento, en forma comparativa con el presupuesto vigente.
+
+**Artículo 200**. El Poder Legislativo no podrá aumentar las asignaciones de sueldos y gastos comprendidos en el proyecto de Presupuesto General remitido por el Poder Ejecutivo.
+
+**Artículo 201**. La vigilancia en la ejecución de los presupuestos y la función de contralor en toda gestión relativa a la Hacienda Pública, será de cargo del Tribunal de Cuentas de la República, que actuará con autonomía funcional, siendo del resorte de la ley que proyectará el mismo tribunal, la reglamentación de esa autonomía, así como la fijación de las atribuciones no especificadas en este capítulo.
+
+**Artículo 202**. El Tribunal de Cuentas estará compuesto de cinco miembros que reúnan las mismas calidades que esta Constitución exige para ser Senador, nombrados en igual forma que los Ministros de la Suprema Corte de Justicia.
+
+Regirán a su respecto las incompatibilidades establecidas en los artículos 111, 112, 113 y 114 .
+
+Durarán cuatro años en sus funciones y podrán ser reelectos. Tendrán suplentes respectivos para los casos de vacancia, de impedimento temporal y licencia de los titulares.
+
+**Artículo 203**. Los miembros del Tribunal de Cuentas son responsables, ante la Asamblea General, en reunión de ambas Cámaras, por el fiel y exacto cumplimiento de sus funciones. La Asamblea General podrá destituirlos, en caso de ineptitud, omisión o delito, mediando la conformidad de dos tercios de votos del total de sus componentes.
+
+**Artículo 204**. Compete al Tribunal de Cuentas:
+
+A) Dictaminar e informar en materia de presupuesto;
+
+B) Intervenir preventivamente en los gastos y los pagos, conforme a las normas reguladoras que establecerá la ley y al solo efecto de certificar su legalidad, haciendo, en su caso, las observaciones correspondientes. Si el ordenador respectivo insistiera, lo comunicará al Tribunal sin perjuicio de cumplir lo ordenado.
+
+Si el Tribunal de Cuentas, a su vez, mantuviera sus observaciones, dará noticia circunstanciada a la Asamblea General, o a quien haga sus veces, a sus efectos.
+
+En los Municipios, Servicios descentralizados y Entes Autónomos, el cometido a que se refiere este inciso podrá ser ejercido con las mismas ulterioridades, por intermedio de los respectivos contadores o funcionarios que hagan sus veces, quienes actuarán en tales cometidos, bajo la superintendencia del Tribunal de Cuentas, con sujeción a lo que disponga la ley, la cual podrá hacer extensiva esta regla a otros servicios públicos con administración de fondos;
+
+C) Dictaminar o informar respecto de la rendición de cuentas y gestiones de todos los órganos del Estado, inclusive Municipios, Servicios descentralizados o Entes Autónomos, cualquiera sea su naturaleza, así como también, en cuanto a las acciones correspondientes en caso de responsabilidad, exponiendo las consideraciones y observaciones pertinentes;
+
+D) Presentar a la Asamblea General la Memoria Anual relativa a la rendición de cuentas establecida en el inciso anterior;
+
+E) Intervenir en todo lo relativo a la gestión financiera de los órganos del Estado, Municipios y Servicios a que se refiere el inciso C), y denunciar, ante quien corresponda, todas las irregularidades en el manejo de fondos públicos o infracciones a las leyes de presupuesto y contabilidad;
+
+F) Dictar las ordenanzas de contabilidad, que tendrán fuerza obligatoria para los órganos del Estado, Municipios, Servicios descentralizados o Entes Autónomos, cualquiera sea su naturaleza.
+
+G) Proyectar su presupuesto que elevará al Poder Ejecutivo, para ser incluido en el Presupuesto General de Gastos. El Poder Ejecutivo, con las modificaciones que considere del caso, lo elevará al Parlamento, estándose a su resolución.
+
+**Artículo 205**. El Tribunal de Cuentas tendrá superintendencia en todo lo que corresponda a sus cometidos y con sujeción a lo que establezca su Ley orgánica, sobre todas las oficinas de contabilidad, recaudación y pagos del Estado, Municipios, Servicios descentralizados o Entes Autónomos, cualquiera sea su naturaleza, pudiendo proponer, a quien corresponda, las reformas que creyere convenientes.
+
+**Artículo 206**. El Tribunal de Cuentas presentará al Poder Ejecutivo el proyecto de ley de Contabilidad y Administración Financiera, el que lo elevará al Poder Legislativo con las observaciones que le mereciera. Dicho proyecto comprenderá las normas reguladoras de la administración financiera y económica y, especialmente, la organización de los servicios de contabilidad y recaudación; requisitos con fines de contralor, para la adquisición y enajenación de bienes y contratación que afecten a la Hacienda Pública; para hacer efectiva la intervención preventiva en los ingresos, gastos y pagos, y las responsabilidades y garantías a que quedarán sujetos los funcionarios que intervienen en la gestión del patrimonio del Estado.
+
+## SECCION XIV
+
+Consejo de la Economía Nacional
+
+### CAPITULO UNICO
+
+**Artículo 207**. La ley podrá crear un Consejo de la Economía Nacional, con carácter consultivo y honorario, compuesto de representantes de los intereses económicos y profesionales del país. La ley indicará la forma de constitución y funciones del mismo.
+
+**Artículo 208**. El Consejo de la Economía Nacional se dirigirá a los Poderes Públicos por escrito, pero podrá hacer sostener sus puntos de vista ante las Comisiones Legislativas, por uno o más de sus miembros.
+
+## SECCION XV
+
+Del Poder Judicial
+
+### CAPITULO I
+
+**Artículo 209**. El Poder Judicial será ejercido por la Suprema Corte de Justicia y por los Tribunales y Juzgados, en la forma que estableciere la Ley.
+
+### CAPITULO II
+
+**Artículo 210**. La Suprema Corte de Justicia se compondrá de cinco miembros.
+
+**Artículo 211**. Para ser miembro de la Suprema Corte de Justicia se requiere:
+
+1) Cuarenta años cumplidos de edad;
+
+2) Ciudadanía natural en ejercicio;
+
+3) Ser abogado y haber pertenecido por espacio de ocho años a la Judicatura o al Ministerio Público, o tener diez años de práctica de la profesión en el foro.
+
+**Artículo 212**. Su nombramiento se hará por la Asamblea General, en reunión de ambas Cámaras, según lo prescripto en el inciso 18 del artículo 75 .
+
+**Artículo 213**. El cargo de miembro de la Suprema Corte de Justicia durará diez años, sin perjuicio de lo que dispone el artículo 226 .
+
+Los que lo desempeñen no podrán ser reelectos sin que medien cinco años entre su cese y la reelección.
+
+**Artículo 214**. Su dotación será fijada por el Poder Legislativo.
+
+### CAPITULO III
+
+**Artículo 215**. A la Suprema Corte de Justicia corresponde:
+
+1) Juzgar a todos los infractores de la Constitución, sin excepción alguna; sobre delitos contra Derechos de Gentes y causas de Almirantazgo; en las cuestiones relativas a tratados, pactos y convenciones con otros Estados; conocer en las causas de los diplomáticos acreditados en la República, en los casos previstos por el Derecho Internacional.
+
+Para los asuntos enunciados y para todo otro en que se atribuya a la Suprema Corte jurisdicción originaria, será la Ley quien disponga sobre las instancias que haya de haber en los juicios, que de cualquier modo serán públicos y tendrán su sentencia definitiva motivada con referencias expresas a la ley que se aplique;
+
+2) Ejercer la superintendencia directiva, correctiva, consultiva y económica sobre los Tribunales, Juzgados y demás dependencias del Poder Judicial;
+
+3) Formular anualmente el proyecto de presupuesto del Poder Judicial, y remitirlo en su oportunidad al Poder Ejecutivo para que éste lo incorpore al proyecto de Presupuesto General, acompañado de las modificaciones que estime pertinentes;
+
+4) Con aprobación del Senado, o en su receso con la de la Comisión Permanente, nombrar los ciudadanos que han de componer los Tribunales de Apelaciones, ciñendo su designación a los siguientes requisitos:
+
+A) Al voto conforme de cuatro de sus miembros, para candidatos que pertenezcan a la Judicatura o al Ministerio Público, y
+
+B) Al voto conforme de todos sus componentes, para candidatos que no tengan las calidades del párrafo anterior;
+
+5) Nombrar a los Jueces Letrados de todos los grados y denominaciones, necesitándose, en cada caso, la concurrencia de cuatro votos en favor de un candidato, para la designación.
+
+Estos nombramientos tendrán carácter de definitivos desde el momento en que se produzcan cuando recaigan sobre ciudadanos que ya pertenecían, con antigüedad de dos años, a la Judicatura o al Ministerio Público o a la Justicia de Paz, en destinos que deban ser desempeñados por abogados.
+
+Si los mismos funcionarios tuviesen menor antigüedad en sus respectivos cargos, serán considerados con carácter de Jueces Letrados interinos por un período de dos años, a contar desde la fecha del nombramiento, y por el mismo tiempo tendrán ese carácter los ciudadanos que recién ingresen a la Magistratura.
+
+Durante el período de interinato, la Suprema Corte podrá remover en cualquier momento al Juez Letrado interino, sin obligación de expresar causa, cuando la medida haya sido resuelta por el voto conforme de sus cinco miembros, y con pronunciamiento expreso de causa si la decisión fuere adoptada por sólo tres votos conformes. Vencido el término del interinato, el nombramiento se considerará confirmado de pleno derecho;
+
+6) Nombrar a los Defensores de Oficio permanentes, a los Jueces de Paz y a los de Distrito, por cuatro votos conformes;
+
+7) Nombrar a los empleados del Poder Judicial, siendo necesario, para cualquier designación, la conformidad de cuatro votos, y requiriéndose, para los dependientes de los Tribunales y Jueces, la previa propuesta de éstos;
+
+8) Cumplir los demás cometidos que le señalare la ley.
+
+**Artículo 216**. En el ejercicio de sus funciones, se comunicará directamente con los otros Poderes del Estado, y su Presidente estará facultado para concurrir a las Comisiones de Códigos y Legislación y Constitución de ambas Cámaras, para que con voz y sin voto, participe de sus deliberaciones cuando traten de asuntos que interesen a la Administración de Justicia, y pueda promover en ellas el andamiento de proyectos de reforma judicial y de los Códigos de Procedimientos.
+
+### CAPITULO IV
+
+**Artículo 217**. Habrá los Tribunales de Apelaciones que la Ley determine y con las atribuciones que ésta les fije. Cada uno de ellos se compondrá de tres miembros.
+
+**Artículo 218**. Para ser miembro de un Tribunal de Apelaciones, se requiere:
+
+1) Treinta y seis años cumplidos de edad;
+
+2) Ciudadanía natural en ejercicio, o legal con siete años de ejercicio;
+
+3) Ser abogado y haber pertenecido por espacio de seis años a la Judicatura o al Ministerio Público, o tener ocho años de práctica de la profesión en el foro.
+
+**Artículo 219**. Los miembros de los Tribunales de Apelaciones durarán en sus cargos por todo el tiempo de su buena comportación hasta el límite dispuesto por el artículo 226 .
+
+### CAPITULO V
+
+**Artículo 220**. La ley fijará el número de Juzgados Letrados de la República, atendiendo a las exigencias de la más pronta y fácil administración de justicia, y señalará los lugares de sede de cada uno de ellos, sus atribuciones y el modo de ejercerlas.
+
+**Artículo 221**. Para ser Juez Letrado se requiere:
+
+1) Veintiocho años cumplidos de edad;
+
+2) Ciudadanía natural en ejercicio, o legal con cuatro años de ejercicio;
+
+3) Ser abogado y haber pertenecido por espacio de dos años al Ministerio Público o a la Justicia de Paz, en destinos que sólo puedan ser desempeñados por abogados, o tener cuatro años de práctica de la profesión en el foro.
+
+**Artículo 222**. Los Jueces Letrados con efectividad en el cargo durarán en sus funciones todo el tiempo de su buena comportación hasta el límite establecido en el artículo 226 . No obstante, y por razones de buen servicio, la Suprema Corte de Justicia podrá trasladarlos en cualquier tiempo de cargo o de lugar, o de ambas cosas, con tal que ese traslado se resuelva después de oído el Fiscal de Corte y con sujeción a los siguientes requisitos:
+
+1) Al voto conforme de cuatro de los miembros de la Suprema Corte en favor del traslado, si el nuevo cargo no implica disminución de grado y remuneración con respecto al anterior;
+
+2) Al voto conforme de todos sus componentes en favor del traslado si el nuevo cargo implica disminución de grado o de remuneración, o de ambos extremos, con respecto al anterior.
+
+### CAPITULO VI
+
+**Artículo 223**. Para ser Juez de Paz o Juez de Distrito se requiere:
+
+1) Veinticinco años cumplidos de edad;
+
+2) Ciudadanía natural en ejercicio, o legal con dos años de ejercicio.
+
+A las calidades enunciadas, se deberán agregar la de abogado para ser Juez de Paz en el Departamento de Montevideo, y la de abogado o escribano público para serlo en las capitales y ciudades de los demás departamentos y en cualquiera otra población de la República cuyo movimiento judicial así lo exija, a juicio de la Suprema Corte.
+
+**Artículo 224**. En la República habrá tantos Juzgados de Paz cuantas sean las secciones judiciales en que se divida el territorio de los departamentos, y tantos Juzgados de Distrito cuantos sean los distritos judiciales que subdividan las secciones.
+
+**Artículo 225**. Los Jueces de Paz y los de Distrito durarán cuatro años en el cargo, pero, en cualquier tiempo, unos y otros podrán ser removidos si así conviene a los fines del mejor servicio público.
+
+### CAPITULO VII
+
+**Artículo 226**. Todo miembro del Poder Judicial cesará en el cargo al cumplir setenta años de edad.
+
+**Artículo 227**. Los cargos de la Judicatura serán incompatibles con toda otra función pública retribuida; u honoraria permanente salvo aquellas especialmente conexas con la Judicial.
+
+En este último caso, se requerirá previamente la autorización de la Suprema Corte, por el voto conforme de cuatro de sus miembros.
+
+**Artículo 228**. A los magistrados y a todo el personal de empleados pertenecientes a los despachos y oficinas internas de la Suprema Corte, Tribunales y Juzgados, les está prohibido, bajo pena de inmediata destitución, dirigir, defender o tramitar asuntos judiciales o intervenir, fuera de su obligación funcional, de cualquier modo en ellos, aunque sean de jurisdicción voluntaria. La transgresión será declarada de oficio en cuanto se manifieste. Cesa la prohibición, únicamente cuando se trate de asuntos personales del funcionario o de su cónyuge, hijos y ascendientes.
+
+En lo que se refiere al personal de los despachos y oficinas se estará, además, a las excepciones que la ley establezca.
+
+La Ley podrá también instituir prohibiciones particulares para los funcionarios o empleados de las dependencias no aludidas por el apartado primero de este artículo.
+
+### CAPITULO VIII
+
+**Artículo 229**. La jurisdicción militar queda limitada a los delitos militares y al caso de estado de guerra.
+
+Los delitos comunes cometidos por militares en tiempo de paz, cualquiera sea el lugar donde se cometan, estarán sometidos a la justicia ordinaria.
+
+**Artículo 230**. La justicia será gratuita para los declarados pobres con arreglo a la Ley. En los pleitos en que tal declaración se hubiere hecho a favor del demandante, el demandado gozará del mismo beneficio hasta la sentencia definitiva, la cual lo consolidará si declara la ligereza culpable del demandante en el ejercicio de su acción.
+
+**Artículo 231**. No se podrá iniciar ningún pleito en materia civil sin acreditarse previamente que se ha tentado la conciliación ante la Justicia de Paz, salvo las excepciones que estableciere la Ley.
+
+### CAPITULO IX
+
+**Artículo 232**. Las leyes podrán ser declaradas inconstitucionales por razón de forma o de contenido, de acuerdo con lo que se establece en los artículos siguientes.
+
+**Artículo 233**. Dicha declaración y la inaplicabilidad de las disposiciones afectadas por ella, deberán pedirse por parte interesada.
+
+El Juez o Tribunal que conozca de la causa podrá también, de oficio plantear la inconstitucionalidad antes de dictar resolución.
+
+**Artículo 234**. Formulado el petitorio o planteada de oficio la inconstitucionalidad en un caso concreto, quedará en suspenso el proceso y se elevarán los autos a la Suprema Corte de Justicia, a quien compete el conocimiento y resolución originaria y exclusiva de la materia, con los requisitos de las sentencias definitivas.
+
+El fallo de la Suprema Corte de Justicia sólo tendrá efecto en el proceso contradictorio en que sea pronunciado.
+
+**Artículo 235**. La Iey reglamentará los procedimientos pertinentes.
+
+## SECCION XVI
+
+Del Gobierno y administración de los Departamentos
+
+### CAPITULO I
+
+**Artículo 236**. El gobierno y administración de los departamentos, con excepción de los servicios de policía, estarán a cargo de un Intendente, una Junta Departamental y una o más Juntas Locales.
+
+**Artículo 237**. Las Juntas Departamentales se compondrán de once miembros en Montevideo y de nueve en los demás departamentos, distribuyéndose los cargos entre los diversos lemas, proporcionalmente al caudal electoral de cada uno.
+
+La elección se hará directamente por el pueblo con las garantías que para el sufragio se establecen en la Sección III .
+
+Se atribuirá a la lista cuyo candidato a Intendente haya resultado triunfante, la totalidad de los cargos que correspondan a su lema.
+
+Dentro de los demás lemas, la distribución se hará por el sistema de la representación proporcional integral.
+
+Los miembros de las Juntas durarán cuatro años en el ejercicio de sus funciones. Conjuntamente con los titulares serán elegidos hasta triple número de suplentes.
+
+**Artículo 238**. Para ser miembro de la Junta Departamental, se requerirán: veinticinco años cumplidos de edad; ciudadanía natural o legal con tres años de ejercicio, y ser nativo del Departamento o estar radicado en él desde tres años antes, por lo menos.
+
+**Artículo 239**. Los Intendentes serán elegidos directamente por el pueblo a mayoría simple de votantes, mediante el sistema del doble voto simultáneo y con las garantías que para el sufragio se establecen en la Sección III , teniéndose por triunfante al candidato de la lista más votada del lema más votado.
+
+Durarán cuatro años en sus funciones y podrán ser reelectos, pero por una sola vez y en ese caso deberán renunciar con tres meses por lo menos de anticipación a la fecha de la elección.
+
+Para ser Intendente se requerirán las mismas calidades que para ser Senador, necesitándose, además, ser nativo del Departamento o estar radicado en él desde tres años antes, por lo menos.
+
+La ley podrá modificar el sistema de elección, por dos tercios de votos de los componentes de cada una de las Cámaras.
+
+**Artículo 240**. El Intendente tendrá un primer y segundo suplentes, electos conjuntamente con el titular, que deberán poseer las mismas calidades y que en caso de vacancia temporal o definitiva, lo sustituirán con sus mismas atribuciones.
+
+**Artículo 241**. Corresponde al Intendente la función ejecutiva en el Gobierno Departamental. Además de las que la Ley determine, sus atribuciones serán:
+
+1) Promulgar y publicar los decretos sancionados por las Juntas, dictando los reglamentos o resoluciones que estime oportunos para su cumplimiento;
+
+2) Preparar el presupuesto general de gastos y someterlo a la aprobación de la Junta Departamental;
+
+3) Designar los miembros de las Juntas Locales con aprobación de la Junta Departamental, dada por tres quintos de votos;
+
+4) Nombrar los empleados de su dependencia, incluso los de las Juntas Locales y, en caso de ineptitud, omisión o delito, destituirlos con autorización de la Junta Departamental, que deberá expedirse dentro de los cuarenta días. De no hacerlo, la destitución se considerará ejecutoriada;
+
+5) Representar al Departamento en sus relaciones con los Poderes del Estado o con los demás Gobiernos Departamentales, y en sus contrataciones con órganos oficiales o privados.
+
+**Artículo 242**. La Junta Departamental tendrá funciones de contralor y legislativas en materia municipal. Su jurisdicción se extenderá a todo el territorio del Departamento y tendrá su sede en la Capital del mismo. Además de las que la ley determine, serán atribuciones de las Juntas Departamentales:
+
+1) Destituir los miembros de las Juntas Locales a propuesta del Intendente y por mayoría absoluta de votos;
+
+2) Dictar, a propuesta del Intendente, o por propia iniciativa, los decretos y resoluciones que juzgue necesarios;
+
+3) Sancionar anualmente el presupuesto del Municipio;
+
+4) Nombrar los empleados de sus dependencias y destituirlos en los casos de ineptitud, omisión o delito;
+
+5) Requerir la intervención del Tribunal de Cuentas para dictaminar sobre cuestiones relacionadas con las finanzas o administración departamentales, bastando un tercio del total de votos para tener por aprobada esa resolución;
+
+6) Considerar las solicitudes de venia o acuerdo que el Intendente le formule;
+
+7) Solicitar directamente del Poder Legislativo modificaciones o ampliaciones de la Ley Orgánica de los Gobiernos Departamentales;
+
+8) Crear, a propuesta del Intendente, nuevas Juntas Locales.
+
+**Artículo 243**. Los Intendentes o las Juntas Departamentales podrán reclamar ante la Suprema Corte de Justicia, por cualquier lesión que se infiriera a la autonomía del Departamento, en la forma que establezca la ley.
+
+**Artículo 244**. Las Juntas Departamentales podrán otorgar concesiones para servicios públicos locales o departamentales, a propuesta del Intendente y por mayoría absoluta de votos.
+
+**Artículo 245**. Los decretos y resoluciones que sancione la Junta Departamental requerirán, para entrar en vigencia, la previa promulgación por el Intendente.
+
+Este podrá observar aquellos que tenga por inconvenientes, pudiendo la Junta insistir por dos tercios de votos, y en ese caso entrará inmediatamente en vigencia.
+
+No podrá ser observado el presupuesto que haya llegado a la Asamblea General por el trámite establecido en el artículo 254 .
+
+**Artículo 246**. En toda población fuera de la planta urbana de la Capital del Departamento, podrá haber una Junta Local, cuyos miembros serán designados respetando, en lo posible, la proporcionalidad de la Junta Departamental en la representación de los diversos partidos. Su número será de cinco miembros, que tendrán las mismas calidades exigidas para ser miembro de la Junta Departamental, y deberán estar avecindados en la localidad. El Presidente ejercerá la función ejecutiva en su jurisdicción.
+
+**Artículo 247**. La Ley determinará las condiciones para la creación de las Juntas Locales y sus atribuciones, pudiendo, por mayoría absoluta de votos de las dos Cámaras, ampliar las facultades de gestión de aquéllas, en las poblaciones que, sin ser capital de Departamento, cuenten más de diez mil habitantes u ofrezcan interés nacional para el desarrollo del turismo.
+
+### CAPITULO II
+
+**Artículo 248**. Es incompatible el cargo de Intendente con todo otro cargo o empleo público o privado, excepción hecha de los docentes. Podrá ejercer oficio, profesión, comercio o industria, siempre que en sus actividades no contrate con el Municipio.
+
+**Artículo 249**. No podrán formar parte de las Juntas Departamentales ni de las Locales, quienes estén a sueldo o reciban retribución de empresas privadas que contraten con el Municipio.
+
+**Artículo 250**. Los Intendentes y miembros de las Juntas tampoco podrán durante su mandato:
+
+1) Intervenir como directores o administradores en empresas que contraten obras o suministros con los Municipios, o con cualquier otro órgano público que tenga relación con ellos;
+
+2) Tramitar o dirigir asuntos propios o de terceros ante los Municipios.
+
+La inobservancia de lo preceptuado en este artículo y los dos anteriores, importará la pérdida inmediata del cargo.
+
+**Artículo 251**. Los cargos de Intendente y de miembros de las Juntas Departamentales son incompatibles con el ejercicio de otra función pública electiva, cualquiera que sea su naturaleza.
+
+### CAPITULO III
+
+**Artículo 252**. Los cargos de miembros de las Juntas Departamentales y Juntas Locales serán honorarios.
+
+El Intendente percibirá la remuneración que le fije la Junta Departamental con anterioridad a su elección. Su monto no podrá ser alterado durante el término de su mandato.
+
+**Artículo 253**. Los Intendentes y los miembros de las Juntas Departamentales podrán ser acusados ante el Senado por un tercio de votos de dichas Juntas, por los motivos previstos en el artículo 84 de la Constitución.
+
+El Senado podrá separarlos de sus destinos por dos tercios de votos del total de sus componentes.
+
+### CAPITULO IV
+
+**Artículo 254**. El Intendente remitirá cada año, a la Junta Departamental, para su estudio y sanción, un proyecto de presupuesto equilibrado. La Junta podrá modificarlo solamente para aumentar los recursos o disminuir los gastos, no pudiendo prestar aprobación a ningún proyecto que signifique déficits, ni crear empleos por su iniciativa.
+
+Previamente a la sanción del presupuesto, la Junta recabará informes del Tribunal de Cuentas, que se pronunciará dentro de los veinte días, pudiendo formular observaciones únicamente sobre error en el cálculo de los recursos, omisión de obligaciones presupuestales o violación de las disposiciones constitucionales o leyes aplicables. Si la Junta aceptase las observaciones del Tribunal de Cuentas o no mediaran éstas, sancionará definitivamente el presupuesto.
+
+En ningún caso la Junta podrá introducir modificaciones, con posterioridad al informe del Tribunal.
+
+Si la Junta Departamental no aceptase las observaciones formuladas por el Tribunal de Cuentas, el presupuesto se remitirá, con lo actuado, a la Asamblea General, para que ésta, en reunión de ambas Cámaras, resuelva las discrepancias dentro del plazo de cuarenta días, y si no recayera decisión, el presupuesto se tendrá por sancionado.
+
+Los presupuestos municipales declarados vigentes se comunicarán al Poder Ejecutivo para su inclusión, a título informativo, en el Presupuesto General de Gastos, y al Tribunal de Cuentas, con instrucción a éste de los antecedentes relativos a sus observaciones, cuando las hubiere.
+
+**Artículo 255**. El tiempo de vigencia del presupuesto será de un año y coincidirá con el del año civil. La ley fijará, por tres quintos de votos del total de componentes de cada Cámara, el porcentaje de los gastos totales que podrá ser destinado a pagar sueldos y salarios, tanto en el presupuesto ordinario como en las erogaciones extraordinarias para obras públicas, etc.
+
+**Artículo 256**. Sólo el Poder Legislativo, a solicitud del Intendente, con acuerdo de la Junta Departamental y previo informe del Tribunal de Cuentas, podrá crear nuevos impuestos municipales.
+
+**Artículo 257**. Serán recursos de los Gobiernos Departamentales, decretados y administrados exclusivamente por éstos, las tasas o tarifas por utilización o aprovechamiento de servicios municipales.
+
+**Artículo 258**. El Gobierno Nacional verterá en la Tesorería Municipal el setenta y cinco por ciento de lo producido durante el año por el impuesto a la propiedad inmueble situada dentro de sus limites, con exclusión de adicionales y recargos. La ley señalará, además, las fuentes de recursos cuyo producto ingresará al Tesoro Municipal, fuentes sobre las que no podrá recaer impuesto nacional.
+
+**Artículo 259**. Los Gobiernos Departamentales no podrán contratar empréstitos sino a propuesta del Intendente, aprobada por la Junta Departamental y con la anuencia del Poder Legislativo. En todos los casos se requerirá el previo informe del Tribunal de Cuentas.
+
+**Artículo 260**. Todo superávit deberá ser íntegramente aplicado a amortizaciones extraordinarias de la Deuda Departamental. Si dicha Deuda no existiese, se aplicará a la ejecución de obras públicas o inversiones remuneradoras, debiendo ser adoptada la resolución por la Junta Departamental a propuesta del Intendente y previo informe del Tribunal de Cuentas.
+
+### CAPITULO V
+
+**Artículo 261**. Los decretos de las Juntas y las resoluciones de los Intendentes contrarios a la Constitución o a las Leyes, serán apelables para ante la Cámara de Representantes, por un tercio de la Junta, por trescientos ciudadanos inscriptos en el Departamento, o por el Poder Ejecutivo.
+
+Si transcurridos sesenta días después de recibidos por la Cámara los antecedentes, no resolviera ésta la apelación, el recurso se tendrá por no interpuesto.
+
+**Artículo 262**. Cuando la resolución apelada haya tenido por objeto el aumento de las rentas departamentales, la apelación interpuesta no podrá tener efecto suspensivo. Tampoco lo tendrá cuando la apelación se interponga en el segundo caso previsto en el artículo anterior.
+
+**Artículo 263**. La ley determinará los recursos de los ciudadanos contra las resoluciones de los Gobiernos Departamentales, tanto en el orden municipal como en el judicial, a los fines del resarcimiento por lesiones de derechos a que pudiera haber lugar.
+
+**Artículo 264**. Sin perjuicio de lo establecido en el artículo 253 , la Ley determinará la responsabilidad de los Intendentes y de los miembros de la Junta y la manera de hacerla efectiva.
+
+### CAPITULO VI
+
+**Artículo 265**. La ley, por mayoría absoluta de votos del total de componentes de cada Cámara, podrá instituir el referéndum en materia municipal.
+
+**Artículo 266**. El quince por ciento de los inscriptos residentes en una localidad tendrá el derecho de Iniciativa ante su respectiva Junta en asuntos de dicha jurisdicción. La Junta local deberá considerar las proposiciones formuladas, dándoles trámite ante las autoridades competentes.
+
+**Artículo 267**. La policía prestará su concurso al Intendente y a las Juntas siempre que lo requieran para el cumplimiento de sus funciones.
+
+### CAPITULO VII
+
+**Artículo 268**. En cada Departamento habrá un Jefe de Policía nombrado por el Poder Ejecutivo.
+
+**Artículo 269**. Para ser Jefe de Policía se necesita: treinta años cumplidos de edad, ciudadanía en ejercicio y ser hijo del Departamento o vecino con residencia inmediata anterior no interrumpida de dos años, por lo menos.
+
+**Artículo 270**. La policía dependerá directamente del Poder Ejecutivo.
+
+## SECCION XVII
+
+De lo Contencioso-Administrativo
+
+### CAPITULO I
+
+**Artículo 271**. Se establecerá por Ley, un Tribunal de lo Contencioso-Administrativo, compuesto de tres miembros.
+
+**Artículo 272**. Las calidades necesarias para ser miembro de este Tribunal serán las mismas establecidas para los de la Suprema Corte de Justicia, y su designación se hará de acuerdo con lo prescripto por el inciso 18 del artículo 75 .
+
+La dotación de estos cargos y su duración las determinará la ley.
+
+### CAPITULO II
+
+**Artículo 273**. El Tribunal de lo Contencioso-Administrativo entenderá en las demandas contra las resoluciones ilegales de la Administración, tomadas en el ejercicio de sus funciones, sea contra los individuos y las entidades privadas, sea contra los empleados públicos.
+
+En la jurisdicción del Tribunal se comprenderán los actos de las autoridades municipales y de los Servicios Descentralizados y Entes Autónomos.
+
+**Artículo 274**. Serán consideradas decisiones ilegales las que fueran violatorias de la Ley, sea en su forma, sea en su fondo.
+
+También lo serán aquéllas no ajustadas a su finalidad o designio que en derecho configuran el abuso o la desviación de poder.
+
+**Artículo 275**. El Tribunal se limitará a apreciar el acto en sí mismo, confirmándolo o revocándolo, sin reformarlo.
+
+La consideración de las responsabilidades de la Administración quedará librada a la justicia ordinaria.
+
+**Artículo 276**. El Tribunal entenderá, además, en las contiendas jurisdiccionales que se susciten entre el Poder Ejecutivo y los Municipios o los Servicios Descentralizados o Entes Autónomos y, también, en las diferencias entre unos y otros de estos órganos.
+
+**Artículo 277**. La Ley, por tres quintos de votos del total de componentes de cada Cámara podrá ampliar la competencia del Tribunal, atribuyéndole la plena jurisdicción en lo Contencioso-Administrativo. En tal caso, el mismo Cuerpo entenderá en la materia a que se refiere el inciso 2º del artículo 275.
+
+## SECCION XVIII
+
+De la justicia electoral
+
+### CAPITULO UNICO
+
+**Artículo 278**. Habrá una Corte Electoral que tendrá las siguientes facultades, además de las que se establecen en la Sección III y las que le señale la Ley:
+
+A) Conocer en todo lo relacionado con los actos y procedimientos electorales;
+
+B) Ejercer la superintendencia directiva, correccional, consultiva y económica sobre los órganos electorales;
+
+C) Decidir, en última instancia, sobre todas las apelaciones y reclamos que se produzcan, y ser Juez de las elecciones de todos los cargos de carácter electivo, sin perjuicio de lo dispuesto en el artículo 153 .
+
+**Artículo 279**. En materia presupuestal y financiera, se estará a lo que se dispone en la Sección XIII .
+
+**Artículo 280**. La organización, forma de elección y los procedimientos de los órganos electorales serán los establecidos por la Ley con las garantías preceptuadas en la Sección III para su reforma.
+
+**Artículo 281**. La Corte Electoral se comunicará directamente con los Poderes Públicos.
+
+## SECCION XIX
+
+De la observancia de las leyes antiguas, cumplimiento y reforma de la presente Constitución
+
+### CAPITULO I
+
+**Artículo 282**. Se declara en su fuerza y vigor las Leyes que hasta aquí han regido en todas las materias y puntos que directa o indirectamente no se opongan a esta Constitución ni a las Leyes que expida el Cuerpo Legislativo.
+
+### CAPITULO II
+
+**Artículo 283**. El que atentare o prestare medios para atentar contra la presente Constitución después de sancionada y publicada, será reputado, juzgado y castigado como reo de lesa Nación.
+
+### CAPITULO III
+
+**Artículo 284**. La presente Constitución podrá ser reformada, total o parcialmente, según los siguientes procedimientos:
+
+A) El veinte por ciento de los ciudadanos inscriptos en el Registro Cívico podrá plantear la reforma en un proyecto articulado que se elevará a la Asamblea General, debiéndose consultar al pueblo en la elección inmediata.
+
+La Asamblea General en reunión de ambas Cámaras, podrá presentar fórmulas sustitutivas, que someterá a decisión plebiscitaria conjuntamente con la iniciativa popular;
+
+B) Todo proyecto de reforma constitucional que reúna dos quintos del total de componentes de la Asamblea General, en reunión de ambas Cámaras, será sometido al plebiscito en la primera elección que se realice.
+
+En los casos de los incisos A) y B), para que el plebiscito tenga valor aprobatorio, se requerirá que vote por "sí" la mayoría absoluta de los ciudadanos legalmente hábiles para votar.
+
+Obtenido ese número de sufragios, la reforma se considerará promulgada;
+
+C) La Constitución podrá ser reformada, también, por Leyes Constitucionales que requerirán para su sanción los dos tercios del total de componentes de cada una de las Cámaras, dentro de una misma Legislatura.
+
+Las Leyes Constitucionales no necesitarán promulgación del Poder Ejecutivo y entrarán en vigencia inmediatamente después de sancionadas por ambas Cámaras. Sin perjuicio de ello, se someterán al referéndum popular en la primera elección que se realice después de su sanción, estándose a la decisión plebiscitaria, pronunciada por la mayoría de votos emitidos.
+
+Cuando las Leyes Constitucionales se refieran a la elección de cargos de carácter electivo, al ser sometidas al plebiscito, -simultáneamente se votará para esos cargos por el sistema propuesto y por el anterior- teniendo al respecto carácter imperativo la decisión plebiscitaria.
+
+## DISPOSICIONES TRANSITORIAS
+
+A) La presente Constitución entrará en vigencia si fuese aprobada por la mayoría absoluta de votos emitidos en el acto plebiscitario y una vez promulgada por la Convención Nacional Constituyente, de acuerdo y sin perjuicio de lo dispuesto por la Ley de convocatoria para su ratificación.
+
+B) Quedan ratificadas y en vigor, en cuanto no se opongan a la presente Constitución, todas las disposiciones legislativas y administrativas dictadas desde el 30 de Marzo de 1933 hasta la instalación de la nueva Legislatura y que no hubieren sido derogadas.
+
+Hasta la misma fecha continuará en sus funciones la Asamblea Deliberante.
+
+C) Para el período 1934-38 serán Presidente y Vicepresidente de la República los ciudadanos elegidos por la IIIª Convención Nacional Constituyente.
+
+D) Las sesiones preparatorias de las futuras Cámaras de Senadores y Representantes se iniciarán tan pronto como la Corte Electoral haya efectuado las proclamaciones necesarias de Legisladores y lo comunique a la Presidencia de la Asamblea Deliberante, la que de inmediato hará las respectivas convocatorias.
+
+E) La apertura del 1er. período ordinario de la nueva Legislatura tendrá lugar el 18 de Mayo próximo. En ese acto, los electos por la Convención Nacional Constituyente para desempeñar la Presidencia y Vicepresidencia de la República, formularán ante la Asamblea General, en reunión de ambas Cámaras, la declaración que establece el artículo 156 .
+
+F) Para la adjudicación y distribución de Ministerios durante el período 1934-38, se atenderá a lo dispuesto por el artículo 163 , referido a los lemas que hubieren concurrido a la elección de Senadores, sin perjuicio de lo dispuesto por el artículo 164 .
+
+G) Los Intendentes y miembros de las Juntas Departamentales para el período 1934-38 serán designados por el Presidente de la República en acuerdo con el Consejo de Ministros. En todo lo demás regirán, sin excepción las disposiciones permanentes de la Sección XVI que organizan y garantizan la autonomía municipal.
+
+H) Los miembros de la Corte Electoral y los de los Consejos y Directorios de todos los órganos de mandato a término, cesarán en sus funciones dentro de los treinta días siguientes a la iniciación del 1er. período ordinario de la nueva Legislatura. Los actuales miembros podrán ser nuevamente designados o reelectos.
+
+I) Dentro del término de tres años, a contar de la fecha de promulgación de esta Constitución, los ciudadanos legales que hubiesen obtenido su carta de ciudadanía antes de la referida fecha, deberán justificar su identidad ante las autoridades correspondientes según el artículo 9º de la Ley 2 de Febrero de 1928 , observándose los procedimientos que la misma establece, a aquel solo efecto.
+
+Vencido dicho término, quedarán canceladas y sin ningún valor las cartas de ciudadanía de las personas que no hubieren cumplido con ese requisito o que, habiéndolo hecho, no hubiesen obtenido pronunciamiento favorable de la Corte Electoral.
+
+J) El término que para la duración del mandato de los miembros de la Suprema Corte de Justicia establece el artículo 213 , regirá para los actuales miembros de la Alta Corte de Justicia a partir de la fecha de la promulgación de la Constitución.
+
+K) La disposición del artículo 223 no será aplicable para los Jueces de Paz en funciones al tiempo de sancionarse la presente Constitución, los que también podrán ser reelectos por más de una vez aun cuando no concurran las calidades que expresa el apartado final de dicho artículo.
+
+L) Promulgada la nueva Constitución, -en sesión pública y solemne,- la Convención Nacional Constituyente clausurará sus sesiones y quedará disuelta.
